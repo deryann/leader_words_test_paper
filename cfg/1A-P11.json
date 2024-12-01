@@ -1,0 +1,16 @@
+{
+  "statement": [
+      ["Beans are a part of a healthy diet.", "Beans"],
+      ["Auntie always cuts up our fruit .", "fruit"],
+      ["I cannot drink carrot juice.", "juice"],
+      ["He sells different kinds of bread .", "bread"],
+      ["A living thing needs air, food, water, and space to stay alive.", "living"],
+      ["Birds, squirrels, and people are living things.", "people"],
+      ["A nonliving thing does not need food, water, and air.", "nonliving"],
+      ["We climbed over the rocks by the ocean.", "rocks"],
+      ["The child was so thin that you could see her bones .", "bones"],
+      ["I used soap to wash my hands before dinner.", "soap"],
+      ["I tied the ribbon in a beautiful bow for the gift.", "bow"],
+      ["He stubbed his toe on the edge of the table.", "toe"]
+  ]
+}

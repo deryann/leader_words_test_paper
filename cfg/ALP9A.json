@@ -1,0 +1,27 @@
+{
+    "explain": [
+      ["A person who is admired for their bravery, outstanding achievements, or noble qualities.", "hero"],
+      ["The collection of traditional stories belonging to a particular culture or group, often involving supernatural beings or events.", "mythology"],
+      ["A person responsible for overseeing the artistic and technical aspects of a film, play, or other performance.", "director"],
+      ["Relating to the current time; happening now.", "present"],
+      ["The power or effect that someone or something has on another person or thing.", "influence"],
+      ["A global sporting event featuring summer and winter sports competitions, held every four years.", "Olympics"],
+      ["A long-distance running race that covers a distance of 26.2 miles (42.195 kilometers).", "marathon"],
+      ["A type of tree or bush that remains green throughout the year, often used as a symbol of victory or honor.", "laurel"],
+      ["To join or link two or more things together.", "connect"],
+      ["To originate or arise from a particular source or cause.", "stem"]
+    ],
+    "statement": [
+      ["He became a hero when he saved the child from the fire.", "hero"],
+      ["The stories in Greek mythology often explain natural phenomena.", "mythology"],
+      ["The directors of the film received several awards for their work.", "directors"],
+      ["The present situation requires immediate attention and action.", "present"],
+      ["Her experience had a significant influence on his career choices.", "influence"],
+      ["The Olympics bring together athletes from around the world to compete.", "Olympics"],
+      ["She trained hard for the marathon and finished in under four hours.", "marathon"],
+      ["In ancient times, laurel leaves were used to crown victors.", "laurel"],
+      ["We need to connect the ideas presented in the two reports.", "connect"],
+      ["The problem stems from a lack of communication between departments.", "stems"]
+  ]
+  }
+  

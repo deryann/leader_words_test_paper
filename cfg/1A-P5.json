@@ -1,0 +1,30 @@
+{
+    "explain": [
+        ["perhaps, possibly, but not certainly", "maybe"],
+        ["how you do something or get somewhere", "by"],
+        ["something that might possibly happen", "could"],
+        ["a four wheeled vehicle", "car"],
+        ["a living thing that is not a human being or plant", "animal(s)"],
+        ["a part of an animal that helps it live", "body part(s)"],
+        ["to come upon after losing or searching for", "find"],
+        ["not in danger", "safe"],
+        ["to finish doing something that you were doing", "stop"],
+        ["a small animal that has smooth skin, lives in water and on land, has long powerful back legs with which it jumps from place to place, has no tail", "frog"],
+        ["having a high temperature", "hot"],
+        ["a piece of clothing made from soft material that covers your foot and the lower part of your leg", "sock"]
+    ],
+    "statement": [
+        ["Maybe we can go out to play if the rain stops.", "Maybe"],
+        ["I come to school by scooter.", "by"],
+        ["Be careful! You could fall off your bike.", "could"],
+        ["Wow, look at that car!", "car"],
+        ["Bears, lions, and owls are all animals.", "animals"],
+        ["Animals have body parts that help them find food and stay safe.", "body parts"],
+        ["A bush baby has large eyes that help it find food.", "find"],
+        ["A skunk's smell helps to keep it safe.", "safe"],
+        ["He stopped to tie his shoe.", "stopped"],
+        ["The frog jumped into the pond.", "frog"],
+        ["Be careful, the stove is hot.", "hot"],
+        ["I need to buy a new pair of socks.", "socks"]
+    ]
+}

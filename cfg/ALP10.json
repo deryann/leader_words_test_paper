@@ -1,0 +1,26 @@
+{
+  "explain": [
+      ["a quality that causes someone or something to be very likeable; an attractive quality", "charm"],
+      ["a female god; a woman who is greatly loved or admired", "goddess"],
+      ["to order or instruct someone to do something", "command(ed)"],
+      ["to appeal or request in a sincere or serious way", "plead"],
+      ["to go after, to catch", "chase"],
+      ["active in sports, games, or exercises", "athletic"],
+      ["filled with great sadness", "heartbroken"],
+      ["time without end", "eternity"],
+      ["the state of being respected", "honor"],
+      ["a person trained to compete in sports", "athlete"]
+  ],
+  "statement": [
+      ["He won her over with his charm .", "charm"],
+      ["Aphrodite is the goddess of beauty.", "goddess"],
+      ["Captain Picard commanded the crew to report to the main deck.", "commanded"],
+      ["He pleaded with his mom not to send him to school.", "pleaded"],
+      ["The dogs saw him running and chased him.", "chased"],
+      ["He is very athletic.", "athletic"],
+      ["She is heartbroken that things turned out so badly.", "heartbroken"],
+      ["She promised to love him for all eternity.", "eternity"],
+      ["We fight for the honor of our country.", "honor"],
+      ["The athlete won two gold medals in the Olympics.", "athlete"]
+  ]
+}

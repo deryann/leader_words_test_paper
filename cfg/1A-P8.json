@@ -1,0 +1,16 @@
+{
+  "statement": [
+      ["The tree got blown down in the storm.", "storm"],
+      ["Ouch! I cut my foot on the reef.", "reef"],
+      ["We live on a beautiful island.", "island"],
+      ["Thank you for being a good friend.", "friend"],
+      ["My baby sister was born yesterday.", "born"],
+      ["A baby chicken hatches from its egg.", "hatches"],
+      ["A life cycle begins again when an adult animal has babies.", "adult"],
+      ["My mother and father are my parents.", "parents"],
+      ["Seven healthy panda cubs were born in the reserve last year.", "cubs"],
+      ["Do I look cute in this hat ?", "hat"],
+      ["He checked off their names on the list as they got on the coach.", "list"],
+      ["I found a bug in my coffee.", "bug"]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a quality that makes someone or something attractive or pleasant", "charm"],
+        ["a female god or a woman who is greatly admired", "goddess"],
+        ["to give someone an order", "command(ed)"],
+        ["to ask for something in a serious or emotional way", "plead"],
+        ["to run after someone or something in order to catch them", "chase"],
+        ["physically strong, fit, and active", "athletic"],
+        ["extremely sad and emotionally hurt", "heartbroken"],
+        ["a period of time that continues forever", "eternity"],
+        ["great respect and admiration", "honor"],
+        ["someone who competes in sports", "athlete"]
+    ],
+    "statement": [
+        ["I had to use all my charms to get them to lend us the hall.", "charms"],
+        ["In ancient mythology, she was considered a goddess of love.", "goddess"],
+        ["The officer commanded the soldiers to stand down.", "commanded"],
+        ["He pleaded for help when he was lost in the woods.", "pleaded"],
+        ["The cat chased the mouse across the yard.", "chased"],
+        ["She is an athletic person who enjoys running and swimming.", "athletic"],
+        ["He was heartbroken after the loss of his beloved pet.", "heartbroken"],
+        ["They believe in an eternity of happiness together.", "eternity"],
+        ["He received the honor of being named the best player of the year.", "honor"],
+        ["The athlete trained hard to prepare for the competition.", "athlete"]
+    ]
+}

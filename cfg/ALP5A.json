@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["necessary for the success or continued existence of something; extremely important", "vital"],
+        ["having pieces of skin that connect all the toes on a foot", "webbed"],
+        ["a small animal (such as a mouse, rat, squirrel, or beaver) that has sharp front teeth", "rodents"],
+        ["to look at someone or something very quickly", "glance"],
+        ["having a lot of power to control people and events", "powerful"],
+        ["to know someone or something because you have seen or heard him or her or experienced it before", "recognize"],
+        ["the surroundings or conditions in which a person, animal, or plant lives or operates", "environment"],
+        ["to keep something in good condition", "maintain"],
+        ["to build or form something by putting parts together", "construct"],
+        ["to put things one on top of another; to form a pile", "pile"]
+    ],
+    "statement": [
+        ["A strong opposition is vital to a healthy democracy.", "vital"],
+        ["Ducks have webbed feet to help them swim.", "webbed"],
+        ["Some species of rodent, like squirrels, are known for storing food for the winter.", "rodent"],
+        ["She glanced at her watch.", "glanced"],
+        ["The president is more powerful than the prime minister.", "powerful"],
+        ["I hadn't seen her for 20 years, but I recognized her immediately.", "recognized"],
+        ["We need to protect the environment for future generations.", "environment"],
+        ["It's important to maintain a healthy lifestyle.", "maintain"],
+        ["They plan to construct a new bridge over the river.", "construct"],
+        ["She piled the books on the table.", "piled"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a condition in which your skin becomes sore and red from too much sunlight", "sunburn"],
+        ["the top layer or outside part of something", "surface"],
+        ["able to do something; very good at doing a job", "capable"],
+        ["to become old; no longer young or new", "age"],
+        ["to develop lines in the skin", "wrinkle"],
+        ["a serious disease that usually forms in skin that has been exposed to sunlight, but can occur anywhere on the body", "skin cancer"],
+        ["in a harsh or strict manner", "severely"],
+        ["a protective covering", "shield"],
+        ["to stop (something) from getting through to someone or something", "block"],
+        ["to stop from happening or developing", "protect"]
+    ],
+    "statement": [
+        ["He used sunscreen to prevent sunburn.", "sunburn"],
+        ["The breeze rippled the surface of the lake.", "surface"],
+        ["The girl is capable of doing it.", "capable"],
+        ["Exposure to the sun has aged her skin.", "age"],
+        ["His brow wrinkled as the thought about the question.", "wrinkle"],
+        ["The doctor told him that he had skin cancer.", "skin cancer"],
+        ["A fire had severely damaged the warehouse.", "severely"],
+        ["Dark glasses are an effective shield against the glare.", "shield"],
+        ["The ozone layer blocks UV rays.", "block"],
+        ["You should protect your skin from harmful UV rays.", "protect"]
+    ]
+}

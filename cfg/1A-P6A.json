@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["I am sure that it will be sunny tomorrow.", "sure"],
+        ["I think a lot about our future together.", "about"],
+        ["Please don’t forget to bring your homework.", "don’t"],
+        ["I saw a beautiful garden over there by the park.", "there"],
+        ["Be careful; that sharp object can hurt you if you touch it.", "hurt"],
+        ["Creatures have limbs that help them move swiftly through their environment.", "move"],
+        ["An eagle has powerful wings that allow it to soar high in the sky.", "wings"],
+        ["A dolphin uses its fins to swim gracefully through the ocean.", "fins"],
+        ["He poured his favorite juice into a colorful cup.", "cup"],
+        ["She enjoyed a delicious cinnamon bun with her coffee.", "bun"],
+        ["My sister gave me a warm hug when I returned home.", "hug"],
+        ["Don’t forget to plug in your phone before going to bed.", "plug"]
+    ]
+}

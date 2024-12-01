@@ -1,0 +1,17 @@
+{
+    "statement": [
+      ["Let’s take a trip to Japan.", "trip"],
+      ["Try not to break the glass!", "break"],
+      ["They used a small cart to carry the wood.", "cart"],
+      ["Drive through the tunnel to see the ocean.", "tunnel"],
+      ["Most mammals have hair or fur.", "mammals"],
+      ["Birds and mammals use lungs to breathe.", "lungs"],
+      ["A fish cannot breathe without gills.", "gills"],
+      ["Snakes, turtles, and lizards are reptiles.", "reptiles"],
+      ["A jet is a type of airplane with powerful engines that flies very fast.","jet"],
+      ["Humans have ten fingers.","ten"],
+      ["Dad usually puts the laptop on the desk .","desk"],
+      ["The child yelled out in pain.","yelled"]
+    ]
+  }
+  

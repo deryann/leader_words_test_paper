@@ -1,0 +1,26 @@
+{
+    "explain": [
+      ["a very small piece of something", "particles"],
+      ["the distance from one wave of energy to another", "wavelength"],
+      ["having control or authority over something", "responsible"],
+      ["to form a picture or idea in your mind of something not real", "imagine"],
+      ["a column of light", "ray"],
+      ["capable of being seen", "visible"],
+      ["the ability of something to be active or do work", "energy"],
+      ["used to describe rays of light that cannot be seen", "ultraviolet"],
+      ["to make something happen", "cause"],
+      ["the basic structural unit of all organisms", "cell"]
+    ],
+    "statement": [
+      ["Light is made up of tiny particles of energy.", "particles"],
+      ["Light and sound have different wavelengths.", "wavelengths"],
+      ["Bad weather is responsible for the poor crop.", "responsible"],
+      ["It’s hard to imagine what I will do in the future.", "imagine"],
+      ["My eyes were blinded by the direct rays of light.", "rays"],
+      ["These tiny creatures are hardly visible to the naked eyes.", "visible"],
+      ["UV light has more energy than normal light.", "energy"],
+      ["Ultraviolet light rays can be harmful.", "Ultraviolet"],
+      ["Heavy traffic causes delays on the freeway.", "causes"],
+      ["Human brains have more than 100 million cells per cubic centimeter.", "cells"]
+    ]
+  }

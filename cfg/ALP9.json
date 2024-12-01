@@ -1,0 +1,27 @@
+{
+    "explain": [
+      ["a person who is admired for great or brave acts or fine qualities", "hero"],
+      ["the myths of a particular group or culture", "mythology"],
+      ["a person who directs a play, movie, etc.", "director"],
+      ["existing at this time", "present"],
+      ["an effect of a person or a thing on another person or thing", "influence"],
+      ["a series of international athletic contests held once every four years", "Olympics"],
+      ["a running race that is about 26 miles (42 kilometers) long", "marathon"],
+      ["an evergreen tree or bush with shiny pointed leaves", "laurel"],
+      ["to link together", "connect"],
+      ["to grow out of", "stem"]
+    ],
+    "statement": [
+      ["His father was his hero.", "hero"],
+      ["We have been studying ancient Greek mythology.", "mythology"],
+      ["She's considered one of the best directors in Hollywood.", "directors"],
+      ["I'm not at all satisfied with the present situation.", "present"],
+      ["His illness has had some influence on his being able to complete his work.", "influence"],
+      ["He is training for the 2020 Olympics.", "Olympics"],
+      ["He ran a marathon on Saturday.", "marathon"],
+      ["The winners of marathons wear laurel crowns.", "laurel"],
+      ["I didn't connect the two events in my mind.", "connect"],
+      ["His love of animals stems from his father.", "stems"]
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["not recognized or identified", "unidentified"],
+    ["something that is difficult or impossible to understand or explain", "mystery"],
+    ["belonging to a foreign country or nation; a foreigner", "alien"],
+    ["the facts or signs that show clearly that something exists or is true", "evidence"],
+    ["a simple drawing showing the features of its subjects in a humorously exaggerated way", "cartoons"],
+    ["the state of not having something or not having enough of something", "lack"],
+    ["a scientist who studies astronomy, the stars, planets, and other celestial bodies", "astronomer"],
+    ["to be or to have presence in the world", "exist"],
+    ["not likely to happen or be true", "unlikely"],
+    ["to make something known or tell people about something officially", "announce"]
+  ],
+  "statement": [
+    ["The unidentified object was later confirmed to be a weather balloon.", "unidentified"],
+    ["The mystery of the missing artifact has puzzled investigators for years.", "mystery"],
+    ["The alien spacecraft was depicted in many science fiction movies.", "alien"],
+    ["The evidence presented in court was compelling enough to secure a conviction.", "evidence"],
+    ["The cartoons we watched as children still bring back fond memories.", "cartoons"],
+    ["There is a lack of evidence to support the claims made by the defendant.", "lack"],
+    ["The astronomer discovered a new planet in a distant galaxy.", "astronomer"],
+    ["Many believe that extraterrestrial life may exist in the universe.", "exist"],
+    ["It is unlikely that we will see significant changes in policy this year.", "unlikely"],
+    ["The company will announce its quarterly earnings next week.", "announce"]
+  ]
+}

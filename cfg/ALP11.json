@@ -1,0 +1,26 @@
+{
+  "explain": [
+ ["not known or identified","unidentified"],
+  ["something that is difficult to understand or explain","mystery"],
+  ["a person or creature from a planet other than the Earth","alien"],
+  ["something which shows that something else exists or is true","evidence"],
+  ["a film or television show made by photographing a series of drawings; an animated film or television show","cartoons"],
+  ["to not have something","lack"],
+  ["someone who studies stars and planets using scientific equipment","astronomer"],
+  ["to live; to have real being","exist"],
+  ["not likely — used to say that something probably will not happen or is not true","unlikely"],
+  ["to make known","announce"]
+  ],
+  "statement": [
+["The girl said she had seen an unidentified flying object flying over her house.", "unidentified"],
+["The cause of the disease remains a mystery to scientists.", "mystery"],
+["Most people don’t believe that aliens have visited the Earth in spaceships.", "aliens"],
+["Show me evidence that the machine works.", "evidence"],
+["I like watching cartoons on a Saturday morning.", "cartoons"],
+["They lack the proof they need.", "lack"],
+["Astronomers study the stars and planets.", "Astronomers"],
+["Do fairies really exist ?", "exist"],
+["It is unlikely he will pass the end of year test.", "unlikely"],
+["The government has announced plans to create 10,000 new jobs.", "announced"]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a very small piece of something, often at a molecular or atomic level", "particles"],
+        ["the distance between successive peaks of a wave", "wavelength"],
+        ["having the duty to take care of something or someone", "responsible"],
+        ["to create a mental image or concept of something that is not present", "imagine"],
+        ["a narrow beam of light or energy", "ray"],
+        ["able to be seen or perceived by the eye", "visible"],
+        ["the capacity to perform work or produce change", "energy"],
+        ["referring to light rays that are beyond the visible spectrum", "ultraviolet"],
+        ["to bring about an effect or result", "cause"],
+        ["the fundamental building block of all living things", "cell"]
+    ],
+"statement": [
+["Light consists of tiny particles of energy that travel in waves.", "particles"],
+["Different types of light and sound have distinct wavelengths.", "wavelengths"],
+["Severe weather conditions are responsible for the crop failures.", "responsible"],
+["It’s challenging to imagine what my life will look like in the future.", "imagine"],
+["The direct rays of sunlight made it difficult to see clearly.", "rays"],
+["These small organisms are barely visible to the naked eye.", "visible"],
+["UV light possesses more energy than visible light.", "energy"],
+["Ultraviolet light rays can be detrimental to skin health.", "Ultraviolet"],
+["Heavy traffic often causes significant delays on the highway.", "causes"],
+["The human brain contains over 100 billion cells, making it incredibly complex.", "cells"]
+]
+  }

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a small animal (such as a mouse, rat, squirrel, or beaver) that has sharp front teeth", "rodents"],
+        ["to know and remember (someone or something) because of previous knowledge or experience", "recognize"],
+        ["having pieces of skin that connect all the toes on a foot", "webbed"],
+        ["a quick look", "glance"],
+        ["the conditions that surround someone or something", "environment"],
+        ["absolutely necessary", "vital"],
+        ["to keep in a certain state, position, or activity", "maintain"],
+        ["to make by putting together materials and parts", "construct"],
+        ["to place things in layers", "pile"],
+        ["having or producing a lot of physical strength or force", "powerful"]
+    ],
+    "statement": [
+        ["Some people are scared of rodents.", "rodents"],
+        ["You can recognize beavers by their large front teeth.", "recognize"],
+        ["Ducks have webbed feet.", "webbed"],
+        ["He gave her a quick glance and smiled.", "glance"],
+        ["These animals were raised in a controlled environment.", "environment"],
+        ["Regular exercise is vital for your health.", "vital"],
+        ["Beavers have maintained the health of water systems by building lodges and dams.", "maintained"],
+        ["It took them two years to construct the bridge.", "construct"],
+        ["He piled the books on top of each other.", "piled"],
+        ["Beavers have powerful front teeth.", "powerful"]
+    ]
+}

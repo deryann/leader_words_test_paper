@@ -1,0 +1,16 @@
+{
+  "statement": [
+      ["First sit down and then open your book.", "First"],
+      ["Sometimes I enjoy cooking with my dad.", "Sometimes"],
+      ["What did you plant in your garden?", "your"],
+      ["Eating healthy food makes me feel good.", "food"],
+      ["You were an infant, or a baby, when you were born.", "infant"],
+      ["A teen is a person between 13 and 19 years old.", "teen"],
+      ["Running and swimming are good ways to exercise.", "exercise"],
+      ["A good night’s sleep will help you stay healthy.", "sleep"],
+      ["The fruit is sweet and ripe, perfect for picking.", "ripe"],
+      ["Be careful not to bite your tongue while eating.", "bite"],
+      ["The mountain is high and covered with snow.", "high"],
+      ["The stars shine brightly in the night sky.", "night"]
+  ]
+}

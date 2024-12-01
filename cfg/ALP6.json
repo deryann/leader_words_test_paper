@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a structure that is built across a river or stream to stop water from flowing", "dam"],
+        ["the place where a beaver lives", "lodge"],
+        ["an open or empty space in or between things", "gap"],
+        ["a sudden and terrible event in nature (such as a hurricane, tornado, or flood) that usually results in serious damage and many deaths", "natural disasters"],
+        ["not changing, especially in behavior", "steady"],
+        ["the overflowing of water", "flood"],
+        ["to damage (something) so badly that it cannot be repaired", "destroy"],
+        ["not easy; requiring much work or skill to do or make", "difficult"],
+        ["the passage, door, or gate for entering", "entrance"],
+        ["to put someone or something in danger", "endanger"]
+    ],
+    "statement": [
+        ["There’s a beaver dam in the stream behind my house.", "dam"],
+        ["The beaver’s lodge was washed away in the flood.", "lodge"],
+        ["The neighbors' dog got in through a gap in the gate.", "gap"],
+        ["A typhoon is a natural disaster.", "natural disaster"],
+        ["One worker kept the ladder steady while the other climbed up.", "steady"],
+        ["In 1975, the floods in that area made 233,000 people homeless.", "floods"],
+        ["The building was destroyed after the earthquake.", "destroyed"],
+        ["We were asked lots of difficult questions.", "difficult"],
+        ["We used the back entrance to the building.", "entrance"],
+        ["The oil spill endangered thousands of birds.", "endangered"]
+    ]
+}
