@@ -1,0 +1,16 @@
+{
+  "statement": [
+      ["Rice and wheat are tasty grains.", "grains."],
+      ["My sister and I enjoy popcorn for a snack.", "popcorn"],
+      ["Dad is going to cook chicken and rice on my plate.", "cook"],
+      ["Bees take nectar to their hives.", "hives."],
+      ["All plants and animals need food to live.", "food"],
+      ["Most plants will die if they do not get sunlight.", "sunlight"],
+      ["Plants and animals need water, air, and space to live.", "space"],
+      ["Animals can find shelter in trees, in mud, and under the ground.", "shelter"],
+      ["The puppy is so cute that everyone wants to pet it.", "cute"],
+      ["June is often considered the start of summer in many countries.", "June"],
+      ["Fruits like apples and bananas are essential for a healthy diet.", "Fruits"],
+      ["I used glue to fix the broken vase.", "glue"]
+  ]
+}

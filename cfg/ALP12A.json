@@ -1,0 +1,26 @@
+{
+  "explain": [
+      ["the scientific study of the universe and of objects that exist naturally in space, such as the moon, the sun, planets, and stars", "astronomy"],
+      ["an action or judgment that is incorrect", "mistake"],
+      ["a discussion or argument about a particular topic", "debate"],
+      ["not able to happen or be done", "impossible"],
+      ["to establish the truth or validity of something", "prove"],
+      ["having a definite shape and volume; not liquid or gas", "solid"],
+      ["based on or characterized by the methods and principles of science", "scientific"],
+      ["having a strong and steady structure; not likely to change", "firm"],
+      ["to keep going or to persist in an action", "continue"],
+      ["to accept something as true or real", "believe"]
+  ],
+  "statement": [
+    ["Astronomy helps us understand the universe and our place in it.", "Astronomy"],
+    ["Everyone makes mistakes, but it's important to learn from them.", "mistakes"],
+    ["The debate over climate change has been ongoing for decades.", "debate"],
+    ["It is impossible to predict the future with complete certainty.", "impossible"],
+    ["The evidence will prove that he was innocent all along.", "prove"],
+    ["Ice is solid at low temperatures, unlike water which is liquid.", "solid"],
+    ["Scientific research is essential for technological advancement.", "Scientific"],
+    ["The firm has a strong reputation for quality and reliability.", "firm"],
+    ["We must continue to strive for excellence in all our endeavors.", "continue"],
+    ["I believe that everyone has the potential to succeed.", "believe"]
+  ]
+}

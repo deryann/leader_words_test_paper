@@ -1,0 +1,26 @@
+{
+  "explain": [
+ ["the scientific study of stars, planets, and other objects in outer space","astronomy"],
+  ["to have a wrong idea about someone or something","mistake"],
+  ["a formal discussion in which opposing arguments are put forward","debate"],
+  ["unable to be done or to happen : not possible","impossible"],
+  ["to provide evidence for","prove"],
+  ["thorough and reliable","solid"],
+  ["relating to science","scientific"],
+  ["not likely to change","firm"],
+  ["to keep happening","continue"],
+  ["to accept or regard (something) as true","believe"]
+  ],
+  "statement": [
+["I want to study astronomy at university.", "astronomy"],
+["People could easily mistake a mule for a horse.", "mistake"],
+["Scientists continue to debate the existence of aliens.", "debate"],
+["It is impossible to predict the future.", "impossible"],
+["The lawyer proved the innocence of his client.", "proved"],
+["James studied at the university for eight solid years.", "solid"],
+["No one has ever found solid scientific evidence of an alien landing.", "scientific"],
+["We have made firm plans for next weekend.", "firm"],
+["Sheila continued to work after she had her baby.", "continued"],
+["You shouldn’t believe everything you read.", "believe"]
+  ]
+}
