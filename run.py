@@ -14,10 +14,10 @@ def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "-i", type=str, required=True, help="Please enter a input json in cfg folder"
+        "-i", "--input", type=str, required=True ,help="Please enter a input json in cfg folder"
     )
     args = parser.parse_args()
-    _main(args.i)
+    _main(args.input)
 
 
 def _main(read_from_filename="1A-P12.json"):
