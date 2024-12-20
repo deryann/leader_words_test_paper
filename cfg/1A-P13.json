@@ -1,0 +1,16 @@
+{
+  "statement": [
+      ["My grandpa is old.", "old."],
+      ["Always try your best.", "try"],
+      ["You can use my pencil, but please return it.", "use"],
+      ["I always want the best for my students.", "want"],
+      ["A forest is a place with many trees that grow close together.", "forest"],
+      ["Some animals live in trees and bushes.", "bushes"],
+      ["The bear looks for berries in the forest.", "bear"],
+      ["A snake has a long body with no legs.", "snake"],
+      ["The seeds will sprout in a few days.", "seeds"],
+      ["The queen will attend the ceremony next week.", "queen"],
+      ["The restaurant serves a variety of meats.", "meats"],
+      ["I read a book every month to improve my English.", "read"]
+  ]
+}

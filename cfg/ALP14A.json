@@ -1,0 +1,27 @@
+{
+  "explain": [
+    ["to change or cause something to change in amount or level, especially from one occasion to another", "vary"],
+    ["being the only existing one of its type or, more generally, unusual or special in some way", "unique"],
+    ["to be decided by or to change according to the stated thing", "depend"],
+    ["better than average or better than other people or things of the same type", "superior"],
+    ["a living being, especially an animal", "creature"],
+    ["one of the two openings in the nose", "nostril"],
+    ["to recognize or be able to tell the difference between two or more things", "distinguish"],
+    ["a large group of animals of the same type that live and feed together", "herd"],
+    ["to identify someone or something seen before", "recognize"],
+    ["a repeated change in the amount or position of something", "vibrations"]
+    ],
+  "statement": [
+    ["The prices vary depending on the season.", "vary"],
+    ["Each snowflake is unique in its own way.", "unique"],
+    ["Your success will depend on your efforts.", "depend"],
+    ["She has superior skills compared to her peers.", "superior"],
+    ["The creature in the story was a dragon.", "creature"],
+    ["He had a cold and was breathing through his nostrils.", "nostril"],
+    ["It's important to distinguish between fact and opinion.", "distinguish"],
+    ["The herd of elephants moved gracefully across the savannah.", "herd"],
+    ["I can recognize her voice even in a crowd.", "recognize"],
+    ["The vibrations from the music could be felt throughout the room.", "vibrations"]
+    
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["to be different in some particular way", "vary"],
+    ["used to say that something or someone is unlike anything or anyone else", "unique"],
+    ["to have trust in", "depend"],
+    ["better than someone or something else in quality or skill", "superior"],
+    ["a living person or animal", "creature"],
+    ["one of two openings of the nose", "nostril"],
+    ["to mark as different", "distinguish"],
+    ["a group of animals of the same type that live together", "herd"],
+    ["to detect with the senses", "recognize"],
+    ["a continuous slight shaking movement ; a series of small, fast movements back and forth or from side to side", "vibrations"]
+  ],
+  "statement": [
+    ["I try to vary my diet by eating different foods.", "vary"],
+    ["His talents make him truly unique.", "unique."],
+    ["I knew he wasn't to be depended upon.", "depended"],
+    ["This handbag is made of superior leather.", "superior"],
+    ["Worms are very simple creatures.", "creatures."],
+    ["My left nostril is blocked.", "nostril"],
+    ["I can distinguish my roommates by their footsteps.", "distinguish"],
+    ["We saw a herd of elephants yesterday.", "herd"],
+    ["He looked at the envelope and recognized Jenny's handwriting immediately.", "recognized"],
+    ["They could feel the vibrations in the ground.", "vibrations"]
+    ]
+}

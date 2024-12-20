@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["the ability to smell, hear, see, taste, or feel something", "sense"],
+    ["very; much more than usual", "extremely"],
+    ["necessary or of great value; having great effect or influence", "important"],
+    ["something that has never been made before, or the process of creating something that has never been made before", "invention"],
+    ["designed and made using the most recent ideas and methods", "modern"],
+    ["the application of scientific knowledge for practical purposes", "technology"],
+    ["absolutely necessary; extremely important", "essential"],
+    ["to continue to live or exist, especially in spite of danger or hardship", "survive"],
+    ["the act of sharing or exchanging information, ideas, or feelings", "communication"],
+    ["in a position directly below something else", "underneath"]
+  ],
+  "statement": [
+    ["The sense of smell is closely linked to memory.", "sense"],
+    ["She was extremely happy with the results of her exam.", "extremely"],
+    ["It is important to stay hydrated during hot weather.", "important"],
+    ["The invention of the wheel was a significant milestone in human history.", "invention"],
+    ["Modern technology has transformed the way we communicate.", "modern"],
+    ["Advancements in technology have made our lives easier.", "technology"],
+    ["Water is essential for all forms of life.", "essential"],
+    ["Many animals have adapted to survive in harsh environments.", "survive"],
+    ["Effective communication is key to successful relationships.", "communication"],
+    ["The cat hid underneath the bed during the thunderstorm.", "underneath"]
+  ]
+}

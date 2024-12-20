@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["one of the five natural powers (touch, taste, smell, sight, and hearing) through which you receive information about the world around you", "senses"],
+    ["very great in degree", "extremely"],
+    ["deserving or requiring serious attention", "important"],
+    ["something new that has been developed and made", "invention"],
+    ["relating to the present time; happening, existing, or developing at a time near the present time", "modern"],
+    ["the use of science in industry, engineering, etc., to invent useful things or to solve problems", "technology"],
+    ["completely necessary", "essential"],
+    ["to continue to live through hardship", "survive"],
+    ["the sharing or exchange of ideas, opinions, and information", "communication"],
+    ["below or beneath (something)", "underneath"]
+  ],
+  "statement": [
+    ["The dog lost his sense of smell.", "sense"],
+    ["She is extremely generous.", "extremely"],
+    ["Doing well on her test is important to her.", "important"],
+    ["The light bulb was one of the most important inventions of the 19th century.", "inventions"],
+    ["Water pollution is a growing problem in the modern world.", "modern"],
+    ["How can we use this new technology in our everyday lives?", "technology"],
+    ["Food is essential for us to live.", "essential"],
+    ["Only two passengers survived the plane crash.", "survived"],
+    ["Parents need to have good communication with their children.", "communication"],
+    ["The ground shook underneath them when the earthquake struck.", "underneath"]
+  ]
+}

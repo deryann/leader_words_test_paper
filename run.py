@@ -58,8 +58,10 @@ def _main(read_from_filename="1A-P12.json"):
         for e, w in lst_explain:
             i += 1
             document.add_paragraph(f"{i} ____________________: {e}")
+        i = 0
         for e, w in lst_explain:
-            ans_doc.add_paragraph(f"{w} : {e}")
+            i+=1
+            ans_doc.add_paragraph(f"{i} {w} : {e}")
 
     if len(lst_statement) > 0:
         document.add_heading(headings[heading_count], 1)
@@ -69,9 +71,10 @@ def _main(read_from_filename="1A-P12.json"):
         for s, w in lst_statement:
             i += 1
             document.add_paragraph(f'{i} {s.replace(w, "______________________")}')
-
+        i = 0
         for s, w in lst_statement:
-            ans_doc.add_paragraph(f"{w} : {s}")
+            i += 1
+            ans_doc.add_paragraph(f"{i} {w} : {s}")
 
     def change_font_size(doc, font_size):
         # Change the font size of all paragraphs in the document
