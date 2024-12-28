@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["a group of people who gather or watch or hear something", "audience"],
+    ["an activity (such as singing a song or acting in a play) that a person or group does to entertain an audience", "performance"],
+    ["a particular kind or group of things or people", "type"],
+    ["a play, movie, television program, novel, etc., that is meant to make people laugh", "comedy"],
+    ["a play, movie, etc., that is serious and has a sad ending (such as the death of the main character)", "tragedies"],
+    ["a kind of performance in which actors sing all or most of the words of a play with music performed by an orchestra", "opera"],
+    ["a movie or play that tells a story with songs and often dancing", "musical"],
+    ["to act on a stage, on TV, or in a movie", "perform"],
+    ["a style of dress, including accessories and hairdos", "costume"],
+    ["a person who writes music", "composer"]
+  ],
+  "statement": [
+    ["The audience enjoyed every minute of the performance.", "audience"],
+    ["This evening’s performance will start at 8 o’clock.", "performance"],
+    ["We studied various types of trees.", "type"],
+    ["The new comedy is the most popular show on TV.", "comedy"],
+    ["Hamlet is one of Shakespeare’s best-known tragedies.", "tragedies"],
+    ["The opera singer needs to rest her voice.", "opera"],
+    ["My mom loves going to watch musicals.", "musicals"],
+    ["The students will perform an opera next Friday.", "perform"],
+    ["His Halloween costume is really scary.", "costume"],
+    ["Some modern composers still write operas.", "composers"]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "explain": [
+    
+      ["the group of people together in one place to watch or listen to a play, movie, someone speaking, etc.", "audience"],
+      ["acting, singing, dancing, or playing music for other people to enjoy; how successful someone or something is at doing something.", "performance"],
+      ["a person or thing that is part of a group of people or things that have similar qualities.", "type"],
+      ["entertainment such as a film, play, etc. that is funny.", "comedy"],
+      ["an event or situation that is very sad, often involving death; a play with a sad ending.", "tragedies"],
+      ["a musical drama in which the dialogue is sung.", "opera"],
+      ["a play or film that includes music and singing.", "musical"],
+      ["to act, sing, dance, or play music for an audience.", "perform"],
+      ["clothing worn by an actor in a play or film.", "costume"],
+      ["a person who writes music, especially classical music.", "composer"]
+      
+  ],
+  "statement": [
+      ["The audience clapped and cheered when she stood up to speak.", "audience"],
+      ["This evening's performance will start at 8 o'clock.", "performance"],
+      ["What type of music do you prefer?", "type"],
+      ["The new comedy is the network's most popular television show.", "comedy"],
+      ["Shakespeare's tragedies include \"Hamlet\", \"King Lear\", and \"Othello\".", "tragedies"],
+      ["I am going to an opera tonight.", "opera"],
+      ["The musical featured catchy songs and impressive choreography.", "musical"],
+      ["He will perform at the concert next week.", "perform"],
+      ["The costume she wore was stunning and fit the character perfectly.", "costume"],
+      ["The composer wrote several famous symphonies during his lifetime.", "composer"]
+      ]
+}
