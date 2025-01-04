@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["I like to eat a healthy snack.", "snack"],
+        ["Look at the deer dash up the mountain.", "dash"],
+        ["Turtle peeks out of his shell.", "peeks"],
+        ["Homemade jam is the best!", "Homemade"],
+        ["The air in a desert can be hot or cold.", "desert"],
+        ["You can find a lot of sand at the beach.", "sand"],
+        ["You should drink a lot of water when the weather is hot and dry.", "dry"],
+        ["A cactus has thick stems and waxy skin that hold water.", "cactus"],
+        ["The actors walked out onto the stage to begin the performance.", "stage"],
+        ["The giraffe has a long neck that helps it reach high leaves.", "giraffe"],
+        ["Goats are often kept for their milk and meat.", "Goats"],
+        ["She prefers to exercise in the gym rather than outdoors.", "gym"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["not joking or funny", "serious"],
+        ["often showing a lot of emotion ; tending to behave and react in an exaggerated way", "dramatic"],
+        ["causing great sadness, because someone suffers or dies", "tragic"],
+        ["a person in a story, play or film", "character"],
+        ["the lines spoken by characters in a drama or novel", "dialog"],
+        ["a device into which people speak or sing in order to record their voices or to make them sound louder", "microphone"],
+        ["amusement or pleasure that comes from watching a performer, playing a game, etc", "entertainment"],
+        ["a part of something that makes up a whole", "element"],
+        ["to influence someone to do or create something", "inspire"],
+        ["to a degree that is not large but not small", "fairly"]
+    ],
+    "statement": [
+        ["The performance was very serious and sad.", "serious"],
+        ["My friend is very dramatic.", "dramatic"],
+        ["They both died in a tragic car accident.", "tragic"],
+        ["They are the two main characters in the play.", "characters"],
+        ["There’s very little dialogue in the movie.", "dialogue"],
+        ["They couldn’t hear her because the microphone wasn’t working.", "microphone"],
+        ["Musicals and operas are both kinds of entertainment.", "entertainment"],
+        ["The story has all the elements of a soap opera.", "elements"],
+        ["His speech inspired us to work harder.", "inspired"],
+        ["She is a fairly good dancer.", "fairly"]
+    ]
+}
