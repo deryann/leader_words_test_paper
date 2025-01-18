@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["severe in effect; bad", "serious"],
+        ["very sudden or exciting", "dramatic"],
+        ["very sad, often involving death", "tragic"],
+        ["the particular combination of qualities in someone or something that makes them different from others", "characters"],
+        ["conversation between the characters in a story, such as in a book or movie", "dialogue"],
+        ["a piece of electrical equipment for recording sounds, or for making sounds louder", "microphone"],
+        ["shows, films, television, or other performances or activities that entertain people", "entertainment"],
+        ["a part of something", "elements"],
+        ["excellent, or resulting from inspiration", "inspired"],
+        ["more than average, but less than very", "fairly"]
+    ],
+    "statement": [
+        ["Fortunately, there were no serious injuries.", "serious"],
+        ["We watched scenes of the dramatic rescue on the news.", "dramatic"],
+        ["It was a tragic accident.", "tragic"],
+        ["The characters in the novel are very well developed.", "characters"],
+        ["Oscar Wilde’s plays are famous for their witty dialogue.", "dialogue"],
+        ["Please speak directly into the microphone.", "microphone."],
+        ["The rise of digital entertainment has captivated kids' attention.", "entertainment"],
+        ["This book has all the elements of a good story.", "elements"],
+        ["It was an inspired performance.", "inspired"],
+        ["She is a fairly good dancer.", "fairly"]
+    ]
+}
