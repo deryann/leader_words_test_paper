@@ -8,16 +8,29 @@ from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
 from docx.shared import Pt
 import argparse
+import tkinter as tk
+from tkinter import ttk
+from tkinter import messagebox
 
 
 def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "-i", "--input", type=str, required=True ,help="Please enter a input json in cfg folder"
+        "-i", "--input", type=str, required=False, help="Please enter a input json in cfg folder"
+    )
+    parser.add_argument(
+        "--gui", action="store_true", help="Enable GUI mode"
     )
     args = parser.parse_args()
-    _main(args.input)
+
+    if args.gui:
+        run_gui()
+    else:
+        if args.input:
+            _main(args.input)
+        else:
+            print("Please provide an input file with -i or use --gui for GUI mode")
 
 
 def _main(read_from_filename="1A-P12.json"):
@@ -29,7 +42,7 @@ def _main(read_from_filename="1A-P12.json"):
 
     base_filename = read_from_filename.split(".")[0]
 
-    file_path = os.path.join(os.getcwd(), "cfg", read_from_filename)
+    file_path = os.path.join(os.getcwd(), "cfg-202502", read_from_filename)
     with open(file_path, "r", encoding="utf8") as f:
         data = json.load(f)
     lst_explain = data.get("explain", [])
@@ -116,7 +129,40 @@ def _main(read_from_filename="1A-P12.json"):
 
     ans_doc.save(ans_filepath)
     document.save(filepath)
-    os.startfile(filepath, "print")
+
+    return filepath
+
+
+def run_gui():
+    def generate_file(print_file=False):
+        selected_folder = folder_var.get()
+        if not selected_folder:
+            messagebox.showerror("Error", "Please select a folder")
+            return
+        filepath = _main(selected_folder)
+        if print_file:
+            os.startfile(filepath, "print")
+
+    root = tk.Tk()
+    root.title("Word Test Paper Generator")
+
+    folder_var = tk.StringVar()
+    folder_label = ttk.Label(root, text="Select Folder:")
+    folder_label.pack(pady=5)
+    folder_dropdown = ttk.Combobox(root, textvariable=folder_var)
+    folder_dropdown.pack(pady=5)
+
+    cfg_folder = os.path.join(os.getcwd(), "cfg-202502")
+    folders = [f for f in os.listdir(cfg_folder) if f.endswith(".json")]
+    folder_dropdown["values"] = folders
+
+    generate_button = ttk.Button(root, text="Generate File", command=lambda: generate_file(print_file=False))
+    generate_button.pack(pady=5)
+
+    generate_print_button = ttk.Button(root, text="Generate and Print", command=lambda: generate_file(print_file=True))
+    generate_print_button.pack(pady=5)
+
+    root.mainloop()
 
 
 if __name__ == "__main__":

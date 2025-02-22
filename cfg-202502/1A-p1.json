@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["My teacher is from England.", "teacher"],
+        ["He was surprised at his test score.", "surprised"],
+        ["She studied the grasshopper carefully.", "studied"],
+        ["She walked slowly toward the door.", "toward"],
+        ["Water is a natural resource.", "natural resource"],
+        ["Fish live in the sea, and tigers live on land .", "land"],
+        ["The air is cleaner up in the mountains.", "air"],
+        ["Rain, river, oceans and lakes are made of water .", "water"],
+        ["Children slide down the playground slide with joy.", "slide"],
+        ["Everyone clap their hands to the music.", "clap"],
+        ["She put her favorite photo in a wooden frame.", "frame"],
+        ["The boy played the drum in the school band.", "drum"]
+    ]
+}

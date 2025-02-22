@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["to go on a trip or journey; to go to a place away from home", "travel"],
+        ["to spend time resting or doing something enjoyable especially after you have been doing work", "relax"],
+        ["the practice of traveling to beautiful natural places for pleasure in a way that does not damage the environment there", "ecotourism"],
+        ["the process or system by which goods and services are produced, sold, and bought in a country or region", "economy"],
+        ["an exciting or dangerous experience", "adventure"],
+        ["not changed; still in the original state or condition", "untouched"],
+        ["very special, unusual, beautiful, etc., and therefore difficult or impossible to forget", "unforgettable"],
+        ["to arrive", "reach"],
+        ["relating to a particular area, city or town", "local"],
+        ["to buy something", "purchase"]
+    ],
+    "statement": [
+        ["I usually travel to Europe in the summer.", "travel"],
+        ["After school I like to come home and relax in front of the television.", "relax"],
+        ["Ecotourism is becoming more popular.", "ecotourism"],
+        ["An increase in tourism will help the city's economy.", "economy"],
+        ["The field trip was an adventure for the students.", "adventure"],
+        ["It was great to experience untouched nature.", "untouched"],
+        ["The trip to Paris was unforgettable.", "unforgettable"],
+        ["When will they reach Los Angeles?", "reach"],
+        ["He works at the local post office.", "local"],
+        ["He purchased this stamp at an auction.", "purchased"]
+    ]
+}
