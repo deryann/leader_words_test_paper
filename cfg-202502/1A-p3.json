@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["Please hand in your paper.", "paper"],
+        ["I like using markers to color.", "markers"],
+        ["I know I can do better on my test!", "better"],
+        ["My new school is bigger than the old one.", "bigger"],
+        ["Black or brown soil is best for most plants to grow.", "soil"],
+        ["Humus adds nutrients to the soil and helps it hold water.", "Humus"],
+        ["After many weeks, the old Halloween pumpkin was rotting and getting soft.", "rotting"],
+        ["You can break the chocolate into many pieces.", "break"],
+        ["Swing your legs over to this side of the bed.", "Swing"],
+        ["The crab moved sideways across the sandy beach.", "crab"],
+        ["The bird carefully built a nest in the tall tree.", "nest"],
+        ["We swap small gifts, we go out together.", "gifts"]
+    ]
+}

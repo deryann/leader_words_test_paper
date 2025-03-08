@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["He saw a bear climbing a tree!", "bear"],
+        ["He raised his arms above his head.", "above"],
+        ["Riding a bike is easy. Even my little brother can do it!", "Even"],
+        ["They pushed the car to the side of the road.", "pushed"],
+        ["A rock is made of one or more minerals.", "minerals."],
+        ["A camping trip is a good way to experience nature.", "nature."],
+        ["A nonliving thing cannot eat or move on its own.", "nonliving thing"],
+        ["A large boulder is too heavy for a person to move.", "boulder"],
+        ["She placed her books neatly on the shelf.", "shelf"],
+        ["He fastened his seat belt before driving.", "belt"],
+        ["They decided to paint the walls blue.", "paint"],
+        ["She raised her hand to ask a question.", "hand"]
+    ]
+}

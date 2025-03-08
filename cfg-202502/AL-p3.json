@@ -1,0 +1,27 @@
+
+{
+    "explain": [
+        ["to make or produce (something); to cause (something new) to exist", "create(d)"],
+        ["large enough to be noticed or have an effect", "significant"],
+        ["the traditions, achievements, beliefs, etc., that are part of the history of a group or nation", "heritage"],
+        ["belonging to or existing in the present time", "currently"],
+        ["a soft, white material that grows on the seeds of a tall plant and that is used to make cloth", "cotton"],
+        ["very attractive in a physical way", "beautiful"],
+        ["known or recognized by very many people; having fame", "famous"],
+        ["considered to be holy or connected with religion in a special way", "sacred"],
+        ["the area around something", "surroundings"],
+        ["strange, unknown, or difficult to understand", "mysterious"]
+    ],
+    "statement": [
+        ["UNESCO was created in 1945.", "created"],
+        ["He won a significant amount of money.", "significant"],
+        ["We must take care to preserve our national heritage.", "heritage."],
+        ["He is currently living in Taipei.", "currently"],
+        ["My t-shirt is made from cotton.", "cotton"],
+        ["Pamukkale is a beautiful natural area.", "beautiful"],
+        ["This is an internationally famous hotel.", "famous"],
+        ["The Koran is the sacred book of Islam.", "sacred"],
+        ["I need to work in pleasant surroundings.", "surroundings."],
+        ["We heard a mysterious noise outside our tent.", "mysterious"]
+    ]
+}

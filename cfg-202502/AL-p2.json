@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["made with the hands or by using hand tools", "handmade"],
+        ["money that is made in a business, through investing, etc., after all the costs and expenses are paid; a financial gain", "profit(s)"],
+        ["to give money, goods or time for a purpose", "contribute"],
+        ["an area of land that can be seen at one time from one place", "landscape"],
+        ["a substance that can be used to produce energy", "fuel"],
+        ["to watch something carefully over time in order to discover something", "observe"],
+        ["free from polluting matter, clean and not harmful in any way", "pure"],
+        ["to take care of something in order to prevent it from being harmed", "preserve / preserving"],
+        ["the people living in one area", "community / communities"],
+        ["to do or see (something) or have (something) happen to you", "experience"]
+    ],
+    "statement": [
+        ["We bought a handmade rug at the market.", "handmade"],
+        ["All the profits from the items we bought went to the local people.", "profits"],
+        ["He contributed half of his savings to the relief fund.", "contributed"],
+        ["He gazed out at the beautiful landscape.", "landscape"],
+        ["They are trying to find a cleaner fuel for cars.", "fuel"],
+        ["They carefully observed the behavior of deer.", "observed"],
+        ["The air by the sea is pure and healthy.", "pure"],
+        ["We have taken effective measures to preserve our natural resources.", "preserve"],
+        ["There was a community meeting to talk about plans for a new shopping mall.", "community"],
+        ["This is one of the best days I have ever experienced.", "experienced."]
+    ]
+}
