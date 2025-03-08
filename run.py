@@ -145,22 +145,31 @@ def run_gui():
 
     root = tk.Tk()
     root.title("Word Test Paper Generator")
+    root.geometry("400x300")
+    root.option_add("*Font", "Arial 16")
 
     folder_var = tk.StringVar()
     folder_label = ttk.Label(root, text="Select Folder:")
     folder_label.pack(pady=5)
+    
     folder_dropdown = ttk.Combobox(root, textvariable=folder_var)
     folder_dropdown.pack(pady=5)
-
+    
     cfg_folder = os.path.join(os.getcwd(), "cfg-202502")
     folders = [f for f in os.listdir(cfg_folder) if f.endswith(".json")]
     folder_dropdown["values"] = folders
 
-    generate_button = ttk.Button(root, text="Generate File", command=lambda: generate_file(print_file=False))
-    generate_button.pack(pady=5)
+    # 建立一個樣式
+    style = ttk.Style()
+    style.configure("TButton", font=("Arial", 14))
 
-    generate_print_button = ttk.Button(root, text="Generate and Print", command=lambda: generate_file(print_file=True))
-    generate_print_button.pack(pady=5)
+
+    generate_button = ttk.Button(root, text="Generate File", command=lambda: generate_file(print_file=False), style="TButton")   
+    generate_button.pack(side="left", padx=20)
+    
+    generate_print_button = ttk.Button(root, text="Generate and Print", command=lambda: generate_file(print_file=True),style="TButton") 
+    generate_print_button.pack(side="right", padx=20)
+    
 
     root.mainloop()
 
