@@ -1,0 +1,27 @@
+{
+    "explain": [
+        ["very pleasant or exciting", "magical"],
+        ["not thin; having parts closely crowded together", "thick"],
+        ["a thin fog near the ground", "mist"],
+        ["relating to the study of history", "historical"],
+        ["water that contains mineral salts and gases", "mineral"],
+        ["to divide or spread across", "distribute"],
+        ["to act in close relation with another", "interact"],
+        ["a good or helpful result or effect", "benefits"],
+        ["to cause to remember", "remind"],
+        ["all the people born and living during the same time", "generation"]
+    ],
+    "statement": [
+        ["We had a magical time on vacation.", "magical"],
+        ["It is dangerous to drive in a thick fog.", "thick"],
+        ["The hills were hidden in the mist.", "mist"],
+        ["Pamukkale is an important historical site.", "historical"],
+        ["Can I have a glass of mineral water?", "mineral"],
+        ["Food and tents were distributed to all the people who needed help.", "distributed"],
+        ["Swimming in Pamukkale is like interacting with the ancient Greeks.", "interacting"],
+        ["Some people think that certain foods give you more health benefits.", "benefits"],
+        ["The story reminds me of an experience I once had.", "reminds"],
+        ["The antiques have been handed down to them from one generation to another.", "generation"]
+    ]
+}
+

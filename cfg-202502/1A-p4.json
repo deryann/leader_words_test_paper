@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["My grandfather was a wonderful artist.", "artist"],
+        ["The artist always starts with a blank canvas.", "blank"],
+        ["I drew a straight line on the paper.", "line"],
+        ["Please sign your name on your art work.", "sign"],
+        ["Animals need air to stay alive.", "alive"],
+        ["I think there must be a fire, because I smell smoke.", "smell"],
+        ["Air pollution can make air harmful to breathe.", "Air pollution"],
+        ["Too much pollution is harmful to the Earth.", "harmful"],
+        ["He used a hammer to drive the nail into the wall.","hammer"],
+        ["The Bengal tiger is known for its striking orange and black stripes.", "tiger"],
+        ["The farmer drove his tractor across the field to plow the soil.", "tractor"],
+        ["If you feel unwell, you should see a doctor.", "doctor"]
+    ]
+}
