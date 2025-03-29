@@ -83,7 +83,10 @@ def _main(read_from_filename="1A-P12.json"):
         i = 0
         for s, w in lst_statement:
             i += 1
-            document.add_paragraph(f'{i} {s.replace(w, "______________________")}')
+            if w not in s:
+                raise ValueError(f"Word {w} not in statement {s}")
+            else:
+                document.add_paragraph(f'{i} {s.replace(w, "______________________")}')
         i = 0
         for s, w in lst_statement:
             i += 1
@@ -137,7 +140,7 @@ def run_gui():
     def generate_file(print_file=False):
         selected_folder = folder_var.get()
         if not selected_folder:
-            messagebox.showerror("Error", "Please select a folder")
+            messagebox.showerror("Error", "Please select a file")
             return
         filepath = _main(selected_folder)
         if print_file:
@@ -149,7 +152,7 @@ def run_gui():
     root.option_add("*Font", "Arial 16")
 
     folder_var = tk.StringVar()
-    folder_label = ttk.Label(root, text="Select Folder:")
+    folder_label = ttk.Label(root, text="Select file:")
     folder_label.pack(pady=5)
     
     folder_dropdown = ttk.Combobox(root, textvariable=folder_var)

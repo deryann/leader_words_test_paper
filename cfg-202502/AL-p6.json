@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["to look upon or think of with a particular feeling", "regard(ed)"],
+        ["liked or enjoyed by many people", "popular"],
+        ["what someone or something was in the past", "former"],
+        ["having no mistakes or flaws", "perfect"],
+        ["confusing", "puzzling"],
+        ["being careful to escape from danger or trouble", "cautious"],
+        ["likely to succeed or to win", "strongest"],
+        ["likely to become true or real", "probable"],
+        ["to speak or notice something", "mention"],
+        ["unique or specific to a person or thing", "particular"]
+    ],
+    "statement": [
+        ["The police officer regarded the group of teenagers with suspicion.", "regarded"],
+        ["She is a popular girl in school.", "popular"],
+        ["His former fans had already forgotten him.", "former"],
+        ["Her work isn’t always perfect.", "perfect"],
+        ["She asks some puzzling questions.", "puzzling"],
+        ["The old lady is very cautious with money.", "cautious"],
+        ["He thought the Spanish team was the strongest.", "strongest"],
+        ["The probable result of global warming will be a rise in sea levels.", "probable"],
+        ["Did you mention this to the boss?", "mention"],
+        ["It was a good concert. I enjoyed the last song in particular.", "particular"]
+    ]
+}

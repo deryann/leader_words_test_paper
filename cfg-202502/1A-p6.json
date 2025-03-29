@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["The plane flew high above the clouds.", "high"],
+        ["I always help my mom wash the dishes.", "always"],
+        ["Once I learned how to swim, I didn’t want to stop!", "Once"],
+        ["My dog is always happy to see me.", "happy"],
+        ["You can save resources if you reuse, recycle, and reduce trash.", "save"],
+        ["I can reuse this box and use it for my toys.", "reuse"],
+        ["We can recycle soda bottles to save resources.", "recycle"],
+        ["We can reduce how much trash we put in the oceans.", "reduce"],
+        ["Birds fly high in the sky.", "fly"],
+        ["The baby started to cry when she was hungry.", "cry"],
+        ["The city is full of bright lights at night.", "city"],
+        ["A daisy is a beautiful flower that blooms in spring.", "daisy"]
+    ]
+}
