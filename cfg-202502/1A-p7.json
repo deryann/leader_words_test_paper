@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["I am learning how to skateboard.", "learning"],
+        ["Have you learned how to float?", "float"],
+        ["I practice my soccer skills every day.", "practice"],
+        ["You all know how to spell your name.", "spell"],
+        ["The factory takes old newspapers and makes new boxes from them.", "factory"],
+        ["A box, a soda can, and a bottle are all objects that can be recycled.", "objects"],
+        ["This new backpack is made from old plastic bottles.", "new"],
+        ["She finished the race in less time than me.", "less"],
+        ["I ate a red apple for lunch.", "apple"],
+        ["The children sat in a circle during story time.", "circle"],
+        ["We put the books on the table.", "table"],
+        ["The turtle slowly walked across the sand.", "turtle"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a traditional Korean side dish made of seasoned vegetables and salt", "kimchi"],
+        ["to happen", "occur(s)"],
+        ["any one of a group of very small living things that often cause disease", "bacteria"],
+        ["having a sharp or acidic taste", "sour"],
+        ["stimulating the desire for food or drink", "appetizing"],
+        ["to make or create (something) by a natural process", "produce(d)"],
+        ["to see, find, or become aware of (something) for the first time", "discover(ed)"],
+        ["to combine different things together", "mix(ed)"],
+        ["the goal that someone wants to achieve", "purpose"],
+        ["very pleasant to taste", "delicious"]
+    ],
+    "statement": [
+        ["I have never tried kimchi before.", "kimchi"],
+        ["The event is scheduled to occur at noon tomorrow.", "occur"],
+        ["Keep the wound dry and clean to prevent the growth of bacteria.", "bacteria"],
+        ["The milk has been left out for too long, it’s sour.", "sour"],
+        ["The food wasn’t particularly appetizing.", "appetizing"],
+        ["Honey is produced by bees.", "produced"],
+        ["Several new types of plants have recently been discovered.", "discovered"],
+        ["The workmen mixed sand, gravel, and cement to make concrete.", "mixed"],
+        ["You make it sound as if I did it on purpose!", "purpose"],
+        ["Dinner was delicious.", "delicious"]
+    ]
+}
