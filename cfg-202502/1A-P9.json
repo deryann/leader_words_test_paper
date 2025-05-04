@@ -11,6 +11,6 @@
         ["Mom will wrap the gift.", "wrap"],
         ["Dad uses a wrench to fix the car.", "wrench"],
         [" I knock on the door.","knock"],
-        ["he cuts the apple with a knife.","knife"]
+        ["He cuts the apple with a knife.","knife"]
     ]
 }
