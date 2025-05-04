@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["He caught a large fish in the river.", "caught"],
+        ["He took the fish home and cooked it.", "took"],
+        ["Listen carefully to the instructions.", "Listen"],
+        ["She thought about the answer.", "thought"],
+        ["The thermometer reads 30 degrees.", "thermometer"],
+        ["The doctor measures my height every time I see her.", "measures"],
+        ["I like to swim in the pool when the temperature is very hot.", "temperature"],
+        ["A spoon is a tool that helps you eat soup.", "tool"],
+        ["Mom will wrap the gift.", "wrap"],
+        ["Dad uses a wrench to fix the car.", "wrench"],
+        [" I knock on the door.","knock"],
+        ["he cuts the apple with a knife.","knife"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["to have (something) inside", "contain(s)"],
+        ["being the only one of a particular type", "unique"],
+        ["something made by combining two or more ingredients", "mixture"],
+        ["a series of actions that produce a change or development", "process"],
+        ["a substance that plants, animals, and people need to live and grow", "nutrient(s)"],
+        ["an illness that affects a person, animal, or plant; a condition that prevents the body or mind from working normally", "diseases"],
+        ["to change food into substances that the body can use", "digest"],
+        ["protected against a specific disease", "immune"],
+        ["relating to the production of milk and milk products", "dairy"],
+        ["a thing created to sell", "product(s)"]
+    ],
+    "statement": [
+        ["Bulgarian yogurt contains healthy bacteria.", "contains"],
+        ["His talents make him truly unique .", "unique"],
+        ["Stir the sugar and butter until the mixture is light and fluffy.", "mixture"],
+        ["They are using a new process to make glass.", "process"],
+        ["Fruits and vegetables have important nutrients.", "nutrients"],
+        ["He suffers from a rare disease .", "disease"],
+        ["Soft-boiled eggs digest easily.", "digest"],
+        ["Fermented foods are good for the immune system.", "immune"],
+        ["Cheese and yogurt are dairy products.", "dairy"],
+        ["They came here in search of new markets for their products .", "products"]
+    ]
+}

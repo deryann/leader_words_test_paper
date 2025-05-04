@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["not including anything extra", "basic"],
+        ["relating to the treatment of diseases and injuries; relating to medicine", "medical"],
+        ["a person who performs a service willingly without pay", "volunteer"],
+        ["happening or existing in all parts of the world", "worldwide"],
+        ["work that makes other people's lives better", "humanitarian"],
+        ["a way of living or existing", "condition(s)"],
+        ["an event that causes great loss and misfortune", "disaster(s)"],
+        ["something that deals with a disease, injury, etc., in order to make someone feel better or become healthy again", "treatment(s)"],
+        ["to reach, enter or use", "access"],
+        ["carefully listening to, looking at, or thinking about something", "attention"]
+    ],
+    "statement": [
+        ["That's just the basic salary without overtime or tips.", "basic"],
+        ["We are lucky in Taiwan because medical care is reasonable.", "medical"],
+        ["Volunteer doctors are needed in poor areas.", "Volunteer"],
+        ["News of the attack attracted worldwide attention.", "worldwide"],
+        ["She is known for her humanitarian work.", "humanitarian"],
+        ["Their living conditions were terrible.", "conditions"],
+        ["It would be a disaster for me if I lost my job.", "disaster"],
+        ["The patient required immediate treatment .", "treatment"],
+        ["Medical treatments are not easy for the people who live in very poor conditions to access .", "access"],
+        ["The doctor visits poor countries to give people medical attention .", "attention"]
+    ]
+}
