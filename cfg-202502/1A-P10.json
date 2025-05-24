@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["I'll be downstairs in a minute.", "minute"],
+        ["That flower is beautiful.", "beautiful"],
+        ["I have a great idea for our vacation.", "idea"],
+        ["Our friendship has lasted over 20 years.", "friendship"],
+        ["The water cycle moves water up into the air, and then it falls back down as rain.", "water cycle"],
+        ["You can see the stars at night when there are no clouds in the sky.", "clouds"],
+        ["Cumulus clouds are puffy and white.", "Cumulus"],
+        ["Stratus clouds are low and gray.", "Stratus"],
+        ["The car has four wheels.", "wheels"],
+        ["I think the dog is cute.", "think"],
+        ["She eats a sweet peach.", "peach"],
+        ["I use a tack to put up the picture.", "tack"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a place where people are protected from bad weather or from danger", "shelter"],
+        ["something that keeps a person or thing from being harmed, lost, etc.", "protection"],
+        ["a person who steals something", "thief"],
+        ["to get free from something; to get away", "escape"],
+        ["to keep or put aside for future use", "store"],
+        ["not old, spoiled, etc.", "fresh"],
+        ["the state of not having something that a person needs or wants", "lack"],
+        ["not likely to fall apart or change", "stable"],
+        ["the degree of heat or cold in a body or environment", "temperature"],
+        ["a person who lived a long time ago", "ancestor"]
+    ],
+    "statement": [
+        ["Their immediate need is for food, clothing and shelter.", "shelter"],
+        ["Humans used caves for protection.", "protection"],
+        ["A thief took my purse.", "thief"],
+        ["The soldier escaped from the enemy's prison.", "escaped"],
+        ["Refrigerators are good places to store food.", "store"],
+        ["They put the food in the shade to keep it fresh.", "fresh"],
+        ["He can't buy the computer because of his lack of money.", "lack"],
+        ["The price of fruits remains stable.", "stable"],
+        ["A nurse took his temperature with a thermometer.", "temperature"],
+        ["My ancestors were French.", "ancestors"]
+    ]
+}

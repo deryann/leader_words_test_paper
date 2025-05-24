@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a country that spans the northeast corner of Africa and the southwest corner of Asia", "Egypt"],
+        ["decorative objects (such as rings, necklaces, and earrings) that people wear on their body", "jewelry"],
+        ["to remove dirty or harmful substances from (something)", "purified"],
+        ["a part of the body (such as the heart or liver) that has a particular function", "organs"],
+        ["to cover (something) by winding or folding a piece of material around it", "wrapped"],
+        ["a place where a dead person is buried", "tomb"],
+        ["to destroy completely", "ruin"],
+        ["be owned by", "belong"],
+        ["not precise but fairly close to being correct", "approximately"],
+        ["an amount of time", "period"]
+    ],
+    "statement": [
+        ["Egypt has one of the longest histories of any modern country.", "Egypt"],
+        ["My mom likes to wear lots of jewelry.", "jewelry"],
+        ["We purified the water by boiling it.", "purified"],
+        ["His internal organs were damaged in the accident.", "organs"],
+        ["The nurse wrapped the baby in a blanket.", "wrapped"],
+        ["We visited Shakespeare's tomb.", "tomb"],
+        ["The temple was ruined by the earthquake.", "ruined"],
+        ["The book belongs to Dan.", "belongs"],
+        ["The time is approximately ten o'clock.", "approximately"],
+        ["This was the most difficult period of his life.", "period"]
+    ]
+}

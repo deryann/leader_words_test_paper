@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a way of making a movie by using a series of drawings, computer graphics, or photographs of objects that are slightly different from one another and that when viewed quickly one after another create the appearance of movement", "animation"],
+        ["a picture that is produced by a camera, artist, mirror, etc.", "images"],
+        ["to seem to be something", "appear"],
+        ["to make or produce (something); to cause (something new) to exist", "create"],
+        ["pictures or images on the screen of a computer, television, etc", "graphics"],
+        ["based on old-fashioned ideas", "traditional"],
+        ["to have need of", "require"],
+        ["not very much, only a little", "slightly"],
+        ["a change of position", "motion"],
+        ["one of the pictures in the series of pictures that make up a film", "frame"]
+    ],
+    "statement": [
+        ["The animation for the film took over two years to complete.", "animation"],
+        ["The kids sat staring at images on the TV screen.", "images"],
+        ["The pictures appear to move within a film.", "appear"],
+        ["The President has announced a plan to create new jobs.", "create"],
+        ["Animation is made with drawings or computer graphics.", "graphics"],
+        ["Traditional animation is a slow and difficult process.", "Traditional"],
+        ["Cole always requires immediate medical care if he gets sick.", "requires"],
+        ["The door is slightly open.", "slightly"],
+        ["We replayed the same scene again in slow motion.", "motion"],
+        ["The film runs at eight frames per second.", "frames"]
+    ]
+}

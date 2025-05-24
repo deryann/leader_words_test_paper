@@ -1,0 +1,16 @@
+{
+    "statement": [
+        ["My sister thinks that mosquitoes are the worst pests.", "pests"],
+        ["I am always very hungry at lunch time.", "lunch"],
+        ["The judges gave me top scores for my speech.", "judges"],
+        ["He opened the jar and let the butterfly fly away.", "opened"],
+        ["In fall, the weather gets cooler.", "fall"],
+        ["The ripe bananas tasted wonderful.", "ripe"],
+        ["In winter, the weather is cold.", "winter"],
+        ["Winter has the fewest hours of daylight.", "fewest"],
+        ["My mom grows beautiful flowers in our garden every spring.", "garden"],
+        ["The children are playing with the dog in the front yard.", "yard"],
+        ["I need a fork to eat my spaghetti properly.", "fork"],
+        ["I saw a big brown horse eating grass in the field.", "horse"]
+    ]
+}

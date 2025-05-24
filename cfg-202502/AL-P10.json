@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["experiencing difficulty", "struggling"],
+        ["physical force that usually causes injuries", "violence"],
+        ["an amount of something available for use", "supplies"],
+        ["continuing to exist, happen, or progress; continuing without reaching an end", "ongoing"],
+        ["to make (something) available; to supply (something that is wanted or needed)", "provide"],
+        ["the work of providing treatment for someone or something", "aid"],
+        ["having knowledge of", "awareness"],
+        ["to plan and make (something) for a specific use or purpose", "designed"],
+        ["a group of people who work together", "organization"],
+        ["to find the answer to a problem or question", "solve"]
+    ],
+    "statement": [
+        ["Doctors visit struggling areas to help the sick.", "struggling"],
+        ["The violence of the storm caused great fear.", "violence"],
+        ["In some countries, people don't have basic supplies such as food and medicine.", "supplies"],
+        ["The ongoing war meant people didn't feel safe.", "ongoing"],
+        ["The school provided new uniforms for the team.", "provided"],
+        ["The volunteer doctors give people medical aid in the poor area.", "aid"],
+        ["There is a general awareness that smoking is harmful to your health.", "awareness"],
+        ["The course is designed for beginners.", "designed"],
+        ["UNV is an organization to help people who are in need around the world.", "organization"],
+        ["With the help of his friends, he finally solved the problem.", "solve"]
+    ]
+}

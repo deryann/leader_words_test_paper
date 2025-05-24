@@ -1,0 +1,16 @@
+{
+  "statement": [
+    ["I have twin sisters.", "sisters"],
+    ["That team is going to be tough to beat.", "team"],
+    ["I hope they score another point!", "score"],
+    ["He scored three goals during the game!", "goals"],
+    ["Sometimes the moon looks round and white.", "moon"],
+    ["I like to sit close to my friends in the classroom.", "close"],
+    ["The moon has many craters on its surface.", "craters"],
+    ["The moon's shape looks different every night.", "different"],
+    ["Mom bakes fresh bread every Sunday morning.", "bread"],
+    ["The seal swam playfully in the blue ocean.", "seal"],
+    ["She wore a red hood to keep her head warm.", "hood"],
+    ["My new winter boot keeps my foot dry in the snow.", "boot"]
+  ]
+}

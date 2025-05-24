@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["the set of emotional qualities, ways of behaving, etc., that makes a person different from other people", "personality"],
+        ["to divide into parts", "separate"],
+        ["a life that some people believe exists after death", "afterlife"],
+        ["having the correct or desired result", "successfully"],
+        ["to become one or joined", "unite"],
+        ["concerned with sacred matters, religion, or the church", "spiritual"],
+        ["done by many people", "common"],
+        ["a way of doing something", "method"],
+        ["the act of finding something", "discovery"],
+        ["an amount of time or a situation in which something can be done; chance", "opportunity"]
+    ],
+    "statement": [
+        ["We all have different personalities.", "personalities"],
+        ["We separated the boys to stop them from fighting.", "separated"],
+        ["He believes in the afterlife.", "afterlife"],
+        ["We have successfully finished the project.", "successfully"],
+        ["Students united to protest the closing of the playground.", "united"],
+        ["Doctors must consider the emotional and spiritual needs of their patients.", "spiritual"],
+        ["Mummification is no longer a common method of treating dead bodies.", "common"],
+        ["He has developed a new method for teaching English.", "method"],
+        ["Scientists announced the discovery of a new planet.", "discovery"],
+        ["The teacher being late gave us the opportunity to play longer.", "opportunity"]
+    ]
+}

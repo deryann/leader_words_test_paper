@@ -1,0 +1,16 @@
+{
+  "statement": [
+    ["Do you believe in good or bad luck?", "luck"],
+    ["Please don't quit, you are doing so well.", "quit"],
+    ["The home team was losing by many points.", "losing"],
+    ["The winners went out to celebrate.", "winners"],
+    ["The birds fly very high in the sky.", "sky"],
+    ["The sun is low in the sky late in the day.", "low"],
+    ["You can see long shadows in the early morning or in the late afternoon.", "shadows"],
+    ["My body blocks the light and forms a shadow.", "blocks"],
+    ["The boy drank his juice through a straw.", "straw"],
+    ["The hawk flew high in the sky looking for food.", "hawk"],
+    ["We go to the beach in August because the weather is warm.", "August"],
+    ["The rocket will launch into space tomorrow morning.", "launch"]
+  ]
+}

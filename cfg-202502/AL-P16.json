@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["to trust someone or something", "rely"],
+        ["to make it possible for something to happen", "allowed"],
+        ["all of something; not divided or broken", "whole"],
+        ["to give someone the ability to do something", "enable"],
+        ["a person who is skilled at drawing, painting, etc.", "artists"],
+        ["representing what is real", "realistic"],
+        ["the part of a scene that is behind a main figure or object in a movie, cartoon, painting, photograph, etc.", "background"],
+        ["nothing more than", "simply"],
+        ["foolish; lacking seriousness", "silly"],
+        ["to be attractive to", "appeal"]
+    ],
+    "statement": [
+        ["You must rely on luck to with the lottery. There is no skill.", "rely"],
+        ["The system allows the easy transfer of data from one computer to another.", "allows"],
+        ["Computers have allowed them to take animation to a whole new level.", "whole"],
+        ["Computers enabled artists to make thousands of images faster than before.", "enabled"],
+        ["I can't draw at all, but both of my children are very talented artists.", "artists"],
+        ["They can create more realistic characters.", "realistic"],
+        ["It is easier to create backgrounds using a computer than drawing them by hand.", "backgrounds"],
+        ["Animation was once thought to simply be entertainment for children.", "simply"],
+        ["That cartoon is so silly!", "silly"],
+        ["Animations appeal to all ages and cultures.", "appeal"]
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["located or occurring below the surface of the earth", "underground"],
+        ["something that helps produce or influence a result; one of the things that cause something to happen", "factors"],
+        ["in or to every part of (something)", "throughout"],
+        ["to make visible", "uncover"],
+        ["not seen or known", "hidden"],
+        ["careful study that is done to find and report new knowledge about something", "research"],
+        ["the structure of bones that supports the body of a person or animal", "skeleton(s)"],
+        ["evidence that helps to solve a problem", "clue(s)"],
+        ["to use (something, such as an opportunity) in a way that helps you; to make good use of (something)", "advantage"],
+        ["involving or relating to real situation and events", "practical"]
+    ],
+    "statement": [
+        ["Caves are natural underground places.", "underground"],
+        ["There were several factors contributing to his not doing well in his exams.", "factors"],
+        ["She has traveled throughout the world.", "throughout"],
+        ["Scientists study caves to uncover a hidden world of human history.", "uncover"],
+        ["He has a hidden camera in his bag.", "hidden"],
+        ["Research shows us that caves were used for a variety of reasons.", "Research"],
+        ["They found the fossil skeleton of a dinosaur.", "skeleton"],
+        ["The police couldn't find any clues to solve the crime.", "clues"],
+        ["We took advantage of the warm weather and did some yard work.", "advantage"],
+        ["Practical experience is often very important.", "Practical"]
+    ]
+}
