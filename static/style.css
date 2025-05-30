@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.links {
+  margin-top: 20px;
+}
+.links a {
+  display: block;
+  margin-bottom: 5px;
+}

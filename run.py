@@ -133,7 +133,7 @@ def _main(read_from_filename="1A-P12.json"):
     ans_doc.save(ans_filepath)
     document.save(filepath)
 
-    return filepath
+    return filepath, ans_filepath
 
 
 def run_gui():
