@@ -142,7 +142,7 @@ def run_gui():
         if not selected_folder:
             messagebox.showerror("Error", "Please select a file")
             return
-        filepath = _main(selected_folder)
+        filepath, ans_filepath = _main(selected_folder)
         if print_file:
             os.startfile(filepath, "print")
 
