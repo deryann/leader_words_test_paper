@@ -6,20 +6,18 @@ from fastapi.responses import HTMLResponse, JSONResponse, FileResponse
 from fastapi.staticfiles import StaticFiles
 
 from run import _main
+from variables import CFG_FOLDER, OUTPUT_FOLDER, STATIC_FOLDER
 
-BASE_DIR = os.getcwd()
-CFG_FOLDER = os.path.join(BASE_DIR, "cfg-202502")
-OUTPUT_FOLDER = os.path.join(BASE_DIR, "output")
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 app = FastAPI()
-app.mount("/static", StaticFiles(directory="static"), name="static")
+app.mount("/static", StaticFiles(directory=STATIC_FOLDER), name="static")
 
 
 @app.get("/", response_class=HTMLResponse)
 async def index() -> HTMLResponse:
     """Serve the main HTML page."""
-    index_path = os.path.join("static", "index.html")
+    index_path = os.path.join(STATIC_FOLDER, "index.html")
     if not os.path.isfile(index_path):
         raise HTTPException(status_code=500, detail="Index HTML not found")
     with open(index_path, encoding="utf-8") as f:

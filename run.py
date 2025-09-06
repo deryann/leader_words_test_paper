@@ -12,6 +12,10 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
 
+# Centralized constants
+from variables import CFG_FOLDER, OUTPUT_FOLDER
+
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 def main():
 
@@ -42,7 +46,7 @@ def _main(read_from_filename="1A-P12.json"):
 
     base_filename = read_from_filename.split(".")[0]
 
-    file_path = os.path.join(os.getcwd(), "cfg-202502", read_from_filename)
+    file_path = os.path.join(CFG_FOLDER, read_from_filename)
     with open(file_path, "r", encoding="utf8") as f:
         data = json.load(f)
     lst_explain = data.get("explain", [])
@@ -70,7 +74,7 @@ def _main(read_from_filename="1A-P12.json"):
         i = 0
         for e, w in lst_explain:
             i += 1
-            document.add_paragraph(f"{i} ____________________: {e}")
+            document.add_paragraph(f"{i} ________________: {e}")
         i = 0
         for e, w in lst_explain:
             i+=1
@@ -86,7 +90,7 @@ def _main(read_from_filename="1A-P12.json"):
             if w not in s:
                 raise ValueError(f"Word {w} not in statement {s}")
             else:
-                document.add_paragraph(f'{i} {s.replace(w, "______________________")}')
+                document.add_paragraph(f'{i} {s.replace(w, "__________________")}')
         i = 0
         for s, w in lst_statement:
             i += 1
@@ -108,8 +112,8 @@ def _main(read_from_filename="1A-P12.json"):
     for section in sections:
         section.top_margin = Inches(1 / 2.54)
         section.bottom_margin = Inches(1 / 2.54)
-        section.left_margin = Inches(2 / 2.54)
-        section.right_margin = Inches(2 / 2.54)
+        section.left_margin = Inches(1 / 2.54)
+        section.right_margin = Inches(1 / 2.54)
 
     k = 0
 
@@ -117,8 +121,8 @@ def _main(read_from_filename="1A-P12.json"):
     while True:
         filename = f"{base_filename}_test-{k}.docx"
         ans_filename = f"{base_filename}_test-{k}-ans.docx"
-        filepath = os.path.join("output", filename)
-        ans_filepath = os.path.join("output", ans_filename)
+        filepath = os.path.join(OUTPUT_FOLDER, filename)
+        ans_filepath = os.path.join(OUTPUT_FOLDER, ans_filename)
 
         if not os.path.exists(filepath):
             break
@@ -158,8 +162,7 @@ def run_gui():
     folder_dropdown = ttk.Combobox(root, textvariable=folder_var)
     folder_dropdown.pack(pady=5)
     
-    cfg_folder = os.path.join(os.getcwd(), "cfg-202502")
-    folders = [f for f in os.listdir(cfg_folder) if f.endswith(".json")]
+    folders = [f for f in os.listdir(CFG_FOLDER) if f.endswith(".json")]
     folder_dropdown["values"] = folders
 
     # 建立一個樣式
