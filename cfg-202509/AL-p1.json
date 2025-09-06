@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["unable to understand or think clearly", "confused"],
+        ["traditional; typical of a community or nation", "folk"],
+        ["an imaginary animal that can breathe out fire and looks like a very large lizard with wings, a long tail, and large claws", "dragon"],
+        ["a creature usually thought of as being an extremely large and powerful person", "giant"],
+        ["to think of or create (something that is not real) in your mind", "imagine"],
+        ["the first made or performed", "original"],
+        ["acting with great force or anger", "violent"],
+        ["a story or description that is different in some way from another person's story or description", "version"],
+        ["a person who hunts wild animals", "hunter"],
+        ["someone with great knowledge, usually acquired from research", "scholar"]
+    ],
+    "statement": [
+        ["I am confused about what to do next.", "confused"],
+        ["It is often used as folk medicine to cure snake bites.", "folk"],
+        ["I like to read stories about wizards and dragons.", "dragon"],
+        ["The giant in 'Jack and the Beanstalk' is really scary!", "giant"],
+        ["The writer imagined a crazy world of amazing creatures.", "imagine"],
+        ["This is an original painting by Picasso.", "original"],
+        ["The madman was violent and had to be locked up.", "violent"],
+        ["There are many different versions of the story.", "versions"],
+        ["The hunter took a shot at the deer, but missed.", "hunter"],
+        ["He is a famous Confucian scholar.", "scholar"]
+    ]
+}

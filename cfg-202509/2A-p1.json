@@ -1,0 +1,30 @@
+{
+    "explain": [
+        ["wavy, having curls", "curly"],
+        ["without a curve or a bend", "straight"],
+        ["hanging or flapping in a loose way", "floppy"],
+        ["to let saliva drip from the mouth", "drool(ed)"],
+        ["what all things are made of", "matter"],
+        ["the ability to see", "sight"],
+        ["the ability to hear", "hearing"],
+        ["the ability to feel with your hands or skin", "touch"],
+        ["a dark color like coffee or chocolate", "brown"],
+        ["a bird with big eyes that can see well at night", "owl"],
+        ["soft white frozen water that falls from the sky", "snow"],
+        ["a black bird that makes a loud 'caw' sound", "crow"]
+    ],
+    "statement": [
+        ["A poodle is a dog that has very curly hair.", "curly"],
+        ["Some kinds of dogs have long, straight hair.", "straight"],
+        ["Hound dogs have floppy ears. The ears hang down very low.", "floppy"],
+        ["The big dog drooled all over the place!", "drooled"],
+        ["People use their senses to learn about matter.", "matter"],
+        ["If we don't have sight we cannot see anything.", "sight"],
+        ["My grandfather's hearing is very bad, so I have to speak loudly to him.", "hearing"],
+        ["She touched the cat's soft fur.", "touched"],
+        ["Chocolate and coffee both share the color brown.", "brown"],
+        ["An owl hunts at night and can turn its round head.", "owl"],
+        ["Snow falls from the sky in winter as white frozen water.", "Snow"],
+        ["A crow says 'caw' and has shiny black feathers.", "crow"]
+    ]
+}
