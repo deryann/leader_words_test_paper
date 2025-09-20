@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a friendly animal people keep at home", "pet(s)"],
+    ["not quite all", "almost"],
+    ["to look through very carefully", "search(ed)"],
+    ["having an end that becomes narrow", "pointed"],
+    ["a lens that makes objects seen through it appear larger", "hand lens"],
+    ["to make something look larger", "magnify"],
+    ["to find out how heavy an object is", "weigh"],
+    ["an instrument for weighing objects", "balance"],
+    ["a piece of clothing worn on the upper body", "blouse"],
+    ["a special hat worn by a king or queen", "crown"],
+    ["a tool used to break up soil for farming", "plow"],
+    ["a building where people live", "house"]
+  ],
+  "statement": [
+    ["Mary gives her pet food, water, and lots of love every day.", "pet"],
+    ["The apple is almost gone.", "almost"],
+    ["I searched everywhere in my room for the missing book.", "searched"],
+    ["Mom's shoes have pointed toes.", "pointed"],
+    ["A hand lens can magnify an object.", "hand lens"],
+    ["Objects look bigger when you magnify them.", "magnify"],
+    ["The dinosaur weighs more than the mouse.", "weighs"],
+    ["We use a balance to weigh an object.", "balance"],
+    ["She wore a white blouse to the meeting.", "blouse"],
+    ["The king placed the golden crown on his head.", "crown"],
+    ["The farmer uses a plow to prepare the field for planting.", "plow"],
+    ["The red house on the corner belongs to my friend.", "house"]
+  ]
+}

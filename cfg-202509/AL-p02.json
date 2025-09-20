@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["the beliefs, customs, arts, etc., of a particular society, group, place, or time", "culture"],
+    ["to put into print", "publish"],
+    ["concerned with religion or the church", "religious"],
+    ["causing fear or alarm", "scary"],
+    ["to change words from one language into another language", "translate"],
+    ["to take pleasure in something", "enjoy"],
+    ["an ugly giant in children's stories that eats people", "ogre"],
+    ["a person who appears in a story, book, play, movie, or television show", "character"],
+    ["a deeply upsetting dream", "nightmare"],
+    ["causing fear or terror", "frightening"]
+  ],
+  "statement": [
+    ["I like learning about different cultures.", "cultures"],
+    ["The newspaper is published in Taipei.", "published"],
+    ["Our parents were very religious and very patriotic.", "religious"],
+    ["The book is both scary and funny.", "scary"],
+    ["The novel has been translated into many languages.", "translated"],
+    ["Did you enjoy the movie?", "enjoy"],
+    ["The ogre hid under the bridge waiting to eat the children.", "ogre"],
+    ["She plays the film's main character.", "character"],
+    ["Years after the accident I still have nightmares about it.", "nightmares"],
+    ["It's frightening to think how easily children can be hurt.", "frightening"]
+  ]
+}

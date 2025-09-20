@@ -1,0 +1,30 @@
+{
+    "explain": [
+        ["to measure how heavy something is", "weigh(ed)"],
+        ["to stand tall on your feet", "stood"],
+        ["a band that fits around the neck", "collar(s)"],
+        ["things arranged in a straight line", "row"],
+        ["sight, smell, hearing, touch, and taste", "senses"],
+        ["a fact you learn about something by using your senses", "property"],
+        ["how big or small something is", "size"],
+        ["the quality of light such as blue, red, or yellow", "color"],
+        ["small flat pieces of metal money", "coins"],
+        ["a small metal piece with a raised spiral used to fasten things", "screw"],
+        ["a small salamander with smooth, moist skin", "newt"],
+        ["a tiny dot used to separate whole numbers from parts in a decimal", "point"]
+    ],
+    "statement": [
+        ["A dog can be weighed on the scale so the vet knows how heavy the dog is.", "weigh(ed)"],
+        ["The children measured the dog and he stood one foot tall.", "stood"],
+        ["A collar goes around the dog's neck.", "collar(s)"],
+        ["The students are lined up in a row waiting to play dodgeball.", "row"],
+        ["You can use your senses to describe an object.", "senses"],
+        ["One property of watermelon is that it tastes sweet.", "property"],
+        ["The object's size is very big.", "size"],
+        ["The color of her eyes is brown.", "color"],
+        ["Dad dropped three shiny coins into my hand.", "coins"],
+        ["I used a small screw to fix the loose leg of the chair.", "screw"],
+        ["We saw an orange newt crawling slowly across the wet rock.", "newt"],
+        ["Write 3.5 carefully so the decimal point is between the 3 and the 5.", "point"]
+    ]
+}

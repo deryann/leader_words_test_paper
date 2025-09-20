@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["the activity or process of buying, selling, or exchanging goods or services", "trade"],
+    ["to demand that something happen or that someone do something", "insist"],
+    ["treating people in a way that favors some over others; not fair, honest, or just", "unfair"],
+    ["work for which someone is paid", "labor"],
+    ["a part of a country, of the world, etc.", "region"],
+    ["having a lot of money and possessions", "wealthy"],
+    ["based on moral and just decisions", "fair"],
+    ["someone's belief or idea", "opinion"],
+    ["the typical amount, quality, degree, etc.", "average"],
+    ["something that is made or grown to be sold or used", "products"]
+  ],
+  "statement": [
+    ["Regular trade needs to change because it is unfair to workers in poorer parts of the world.", "trade"],
+    ["I didn't want to go outside, but she insisted.", "insisted"],
+    ["It is unfair that they don't have to do their homework, but we do.", "unfair"],
+    ["Labor in some countries is very cheap.", "Labor"],
+    ["The plant grows in tropical regions.", "regions"],
+    ["His family is extremely wealthy.", "wealthy"],
+    ["All we are asking for is a fair wage.", "fair"],
+    ["The two women had very different opinions about drugs.", "opinions"],
+    ["The average of 3, 8 and 10 is 7.", "average"],
+    ["The company's newest product is selling well.", "product"]
+  ]
+}

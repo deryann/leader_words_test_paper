@@ -16,7 +16,7 @@
             "jinja": true
         },
         {
-            "name": "Python Debugger: Current File with Arguments",
+            "name": "DebugGUI",
             "type": "debugpy",
             "request": "launch",
             "program": "run.py",

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to measure how heavy something is", "weigh(ed)"],
+    ["to stand tall on your feet", "stood"],
+    ["a band that fits around the neck", "collar(s)"],
+    ["things arranged in a straight line", "row"],
+    ["sight, smell, hearing, touch, and taste", "senses"],
+    ["anything that you learn about an object by using your senses", "property"],
+    ["how big or small something is", "size"],
+    ["the quality of light such as blue, red, and yellow", "color"],
+    ["pieces of metal money", "coins"],
+    ["a metal fastener that you turn to hold things together", "screw"],
+    ["a small lizard-like animal that lives in water and on land", "newt"],
+    ["to show direction with your finger", "point"]
+  ],
+  "statement": [
+    ["A dog can be weighed on the scale so the vet knows how heavy the dog is.", "weighed"],
+    ["The children measured the dog and he stood one foot tall.", "stood"],
+    ["A collar goes around the dog's neck.", "collar"],
+    ["The students are lined up in a row waiting to play dodgeball.", "row"],
+    ["You can use your senses to describe an object.", "senses"],
+    ["One property of watermelon is that it tastes sweet.", "property"],
+    ["The object's size is very big.", "size"],
+    ["The color of her eyes are brown.", "color"],
+    ["The boy found three coins in his pocket.", "coins"],
+    ["Dad used a screw to fix the broken chair.", "screw"],
+    ["We saw a newt hiding under the rock by the pond.", "newt"],
+    ["Please point to the correct answer on the board.", "point"]
+  ]
+}
