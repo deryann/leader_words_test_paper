@@ -11,6 +11,11 @@ import argparse
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
+try:
+    from PIL import Image
+    PIL_AVAILABLE = True
+except ImportError:
+    PIL_AVAILABLE = False
 
 # Centralized constants
 from variables import CFG_FOLDER, OUTPUT_FOLDER
@@ -153,6 +158,63 @@ def run_gui():
     root = tk.Tk()
     root.title("Word Test Paper Generator")
     root.geometry("400x300")
+    
+    # Windows 工作列圖示設定 - 簡化但有效的方法
+    try:
+        # 設定應用程式 ID（必須在圖示設定前）
+        import ctypes
+        ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID("WordTestPaperGenerator.1.0")
+    except:
+        pass
+    
+    # 設定圖示
+    png_path = os.path.abspath(os.path.join("icons", "score.png"))
+    ico_path = os.path.abspath(os.path.join("icons", "score.ico"))
+    
+    # 如果有 PNG 檔案，強制重新創建 ICO 檔案
+    if PIL_AVAILABLE and os.path.exists(png_path):
+        try:
+            img = Image.open(png_path)
+            if img.mode != 'RGBA':
+                img = img.convert('RGBA')
+            
+            # 刪除舊的 ICO 檔案並重新創建
+            if os.path.exists(ico_path):
+                os.remove(ico_path)
+            
+            # 創建標準尺寸的 ICO 檔案
+            sizes = [(16, 16), (32, 32), (48, 48), (256, 256)]
+            img.save(ico_path, format='ICO', sizes=sizes)
+            print("重新創建了 ICO 檔案")
+        except Exception as e:
+            print(f"創建 ICO 失敗: {e}")
+    
+    # 設定視窗圖示
+    icon_set = False
+    if os.path.exists(ico_path):
+        try:
+            root.iconbitmap(ico_path)
+            icon_set = True
+            print("設定了 ICO 圖示")
+        except Exception as e:
+            print(f"ICO 設定失敗: {e}")
+    
+    # 同時設定 PhotoImage 圖示（雙重保險）
+    if os.path.exists(png_path):
+        try:
+            icon_img = tk.PhotoImage(file=png_path)
+            root.iconphoto(True, icon_img)
+            root.icon_ref = icon_img  # 保持引用
+            print("設定了 PNG 圖示")
+        except Exception as e:
+            print(f"PNG 設定失敗: {e}")
+    
+    # 強制刷新視窗
+    root.update()
+    
+    print(f"圖示檔案路徑: ICO={ico_path}, PNG={png_path}")
+    print(f"ICO 存在: {os.path.exists(ico_path)}, PNG 存在: {os.path.exists(png_path)}")
+    
     root.option_add("*Font", "Arial 16")
 
     folder_var = tk.StringVar()
