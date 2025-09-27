@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a young dog", "puppy"],
+    ["a space closed in by wires or bars", "cage"],
+    ["a unit of weight", "pound(s)"],
+    ["to pass the tongue along the surface of something", "lick(ed)"],
+    ["an object that pulls iron and steel toward it", "magnet"],
+    ["pulls toward", "attract(s)"],
+    ["a strong and flexible material made from chemicals", "plastic"],
+    ["to push away", "repel"],
+    ["did not", "didn't"],
+    ["has not", "hasn't"],
+    ["she will", "she'll"],
+    ["we will", "we'll"]
+  ],
+  "statement": [
+    ["The puppy is very playful.", "puppy"],
+    ["The pet birds live in a cage.", "cage"],
+    ["Henry weighed 180 pounds!", "pounds"],
+    ["He licked the ice cream, and it was delicious!", "licked"],
+    ["A magnet attracts objects when it pulls them.", "magnet"],
+    ["A magnet will not attract paper, wood, or plastic objects.", "attract"],
+    ["My water bottle is made of plastic.", "plastic"],
+    ["Poles that are alike push away, or repel, each other.", "repel"],
+    ["She didn't come to the party yesterday.", "didn't"],
+    ["He hasn't finished his homework yet.", "hasn't"],
+    ["She'll be here soon, so wait a little longer.", "She'll"],
+    ["We'll need our umbrellas if it rains tomorrow.", "We'll"]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["the act of buying and selling things", "trade"],
+    ["to strongly say that something must be done", "insist"],
+    ["not treating people equally; not right or just", "unfair"],
+    ["hard work people do, usually to earn money", "labor"],
+    ["a large area of land, like part of a country or the world", "region"],
+    ["having a lot of money and valuable things", "wealthy"],
+    ["treating everyone the same and doing what is right", "fair"],
+    ["what someone thinks or believes about something", "opinion"],
+    ["a number that shows the usual or middle amount of something", "average"],
+    ["something people make or grow to sell or use", "product"]
+  ],
+  "statement": [
+    ["Many countries trade food, clothes, and machines with each other.", "trade"],
+    ["He insisted that we finish our homework before playing games.", "insist"],
+    ["It is unfair if only one team gets extra time to practice.", "unfair"],
+    ["Farm workers use their labor to plant and harvest crops.", "labor"],
+    ["The desert region is very dry and hot.", "region"],
+    ["The wealthy man donated money to build a new library.", "wealthy"],
+    ["Teachers should be fair and give the same rules to everyone.", "fair"],
+    ["In my opinion, pizza is better than hamburgers.", "opinion"],
+    ["The average score of the math test was 85.", "average"],
+    ["This toy is the company’s best-selling product.", "product"]
+  ]
+}
