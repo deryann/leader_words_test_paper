@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["attached to something else", "stuck"],
+    ["to go and see a person or place", "visit"],
+    ["a child of your aunt or uncle", "cousin"],
+    ["a musical instrument with a keyboard", "piano"],
+    ["matter that has its own shape", "solid"],
+    ["the appearance of an object's outer outline", "shape"],
+    ["matter that flows and takes the shape of its container", "liquid"],
+    ["matter that changes shape to fill all the space it is in", "gas"],
+    ["flat plates used for serving food", "dishes"],
+    ["wild animals that look like dogs with red fur and long tails", "foxes"],
+    ["objects that are round at the bottom and pointed at the top", "cones"],
+    ["hard covers that protect sea animals", "shells"]
+  ],
+  "statement": [
+    ["While on vacation, their car got stuck in the mud.", "stuck"],
+    ["My grandparents like to visit us.", "visit"],
+    ["My aunt and uncle have three children. Each child is my cousin.", "cousin"],
+    ["The father teaches his child to play the piano.", "piano"],
+    ["Objects in your bedroom are solid.", "solid"],
+    ["A triangle is a shape that has three sides.", "shape"],
+    ["Water, milk, and juice are liquids.", "liquids"],
+    ["The air in the balloons is a gas.", "gas"],
+    ["We need to wash the dishes after dinner.", "dishes"],
+    ["The foxes live in the forest near our house.", "foxes"],
+    ["Traffic cones help direct cars on the road.", "cones"],
+    ["Children collect shells when they walk on the beach.", "shells"]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to never forget", "remember(ed)"],
+    ["an outdoor part of the house with a roof", "porch"],
+    ["a gold or silver head covering decorated with jewels", "crown"],
+    ["to use time or energy to do something", "spend"],
+    ["to drop to the bottom of water", "sink"],
+    ["to stay on top of water", "float"],
+    ["not heavy or full", "light"],
+    ["having a surface that is straight and even", "flat"],
+    ["a title used before a married woman's name", "Mrs."],
+    ["a title used before a man's name", "Mr."],
+    ["a title used before a doctor's name", "Dr."],
+    ["a short form for road used in addresses", "Rd."]
+  ],
+  "statement": [
+    ["Mom remembered my birthday. She never forgets.", "remembered"],
+    ["They sat outside and talked on the front porch.", "porch"],
+    ["Kings and queens wear crowns.", "crowns"],
+    ["These girls spend time together. They play every day.", "spend"],
+    ["A rock will sink in water.", "sink"],
+    ["A ball will float on water.", "float"],
+    ["A light object will often stay on top of the water because it is not heavy.", "light"],
+    ["A ruler and a book are flat objects.", "flat"],
+    ["Mrs. Thompson baked cookies for her husband’s coworkers.", "Mrs."],
+    ["Mr. Johnson will be giving the opening speech at tomorrow’s conference.", "Mr."],
+    ["Dr. Brown will check your teeth today.", "Dr."],
+    ["Our house is on Main Rd. near the park.", "Rd."]
+  ]
+}
