@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["the language of Spain", "Spanish"],
+    ["the sister of one's mother or father", "aunt"],
+    ["the brother of one's father or mother", "uncle"],
+    ["a building used for religious services", "church"],
+    ["to change from a liquid to a solid", "freeze"],
+    ["to cause to become warm or hot", "heat(ed)"],
+    ["to change from a solid to a liquid", "melt"],
+    ["to change from a liquid to a gas", "evaporate"],
+    ["one half of something cut or divided into two equal parts", "halves"],
+    ["tools with sharp blades used for cutting", "knives"],
+    ["wild animals that look like large dogs and live in groups", "wolves"],
+    ["the plural form of life, meaning more than one existence", "lives"]
+  ],
+  "statement": [
+    ["My mother teaches Spanish in my school.", "Spanish"],
+    ["Aunt Maria showed us how to play hopscotch.", "Aunt"],
+    ["Uncle Miguel plays the double bass.", "Uncle"],
+    ["My family goes to church every Sunday.", "church"],
+    ["A pond may freeze in winter.", "freeze"],
+    ["Some solids melt when they are heated.", "heated"],
+    ["Ice on a frozen pond will melt in spring.", "melt"],
+    ["Water evaporates when it gets very hot.", "evaporates"],
+    ["She cut the apple into halves and gave one to her brother.", "halves"],
+    ["The chef uses sharp knives to cut the vegetables.", "knives"],
+    ["The wolves howled at the moon in the dark forest.", "wolves"],
+    ["The firefighters risked their lives to save people from the burning building.", "lives"]
+  ]
+}
