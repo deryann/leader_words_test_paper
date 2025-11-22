@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a woodwind instrument with a long tube with finger holes and keys", "clarinet"],
+    ["a yard or garden behind someone's house", "backyard"],
+    ["adults", "grown-up(s)"],
+    ["a game played with black pieces that are numbered with dots", "dominoes"],
+    ["two or more kinds of matter put together", "mixture"],
+    ["2 slices of bread with other food between them such as meat, cheese, or jelly", "sandwich"],
+    ["to mix completely in water", "dissolve"],
+    ["a sweet substance in a crystal form used in food and drinks", "sugar"],
+    ["helping students learn new things", "teaching"],
+    ["using your eyes to see something", "looking"],
+    ["cleaned with water and soap", "washed"],
+    ["put different things together to make one thing", "mixed"]
+  ],
+  "statement": [
+    ["Victor plays the clarinet.", "clarinet"],
+    ["We spend the afternoon playing outside in the backyard.", "backyard"],
+    ["The grown-ups cook dinner for all the children.", "grown-ups"],
+    ["The grown-ups play dominoes in the living room.", "dominoes"],
+    ["You have a mixture when you make a salad.", "mixture"],
+    ["I ate a tomato and cheese sandwich for lunch today.", "sandwich"],
+    ["This medicine dissolves in water.", "dissolves"],
+    ["Dad put some sugar into his hot coffee.", "sugar"],
+    ["The teacher is teaching the children how to read.", "teaching"],
+    ["The girl is looking at the beautiful flowers in the garden.", "looking"],
+    ["Mom washed the dirty dishes after dinner.", "washed"],
+    ["The chef mixed flour and eggs to make the cake batter.", "mixed"]
+  ]
+}
