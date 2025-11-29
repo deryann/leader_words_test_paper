@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["spoiled or bad", "rotten"],
+    ["to make a loud cry or sound", "scream(ing)"],
+    ["a light wind", "breeze"],
+    ["to decide what you think about someone or something", "judge"],
+    ["a kind of energy that you can see", "light"],
+    ["the heat, light, and flames produced by burning", "fire(s)"],
+    ["to move beyond", "pass"],
+    ["the dark image cast on a surface by an object blocking the light", "shadow"],
+    ["moving in a smooth and beautiful way", "graceful"],
+    ["feeling or showing thanks to someone", "thankful"],
+    ["the state of being dark with no light", "darkness"],
+    ["in a fast way; not slowly", "quickly"]
+  ],
+  "statement": [
+    ["A housefly eats rotten, or spoiled food.", "rotten"],
+    ["If you see a wasp, walk away quietly. Don't run away screaming.", "screaming"],
+    ["The ladybug came in when a breeze blew open the window curtains.", "breeze"],
+    ["Look carefully before you judge, or decide, what this picture shows.", "judge"],
+    ["Light is a kind of energy that you can see.", "Light"],
+    ["Fires, candles and matches are things that burn.", "fires"],
+    ["Light can pass through some objects like glass and clear plastic.", "pass"],
+    ["Your shadow is formed when your body blocks the light.", "shadow"],
+    ["The ballet dancer moved across the stage in a graceful way that made everyone smile.", "graceful"],
+    ["After receiving the gift, the child felt so thankful that she wrote a long thank-you note.", "thankful"],
+    ["When the power went out at night, the whole house was filled with darkness and we could not see anything.", "darkness"],
+    ["The rabbit ran so quickly across the yard that the dog could not catch it.", "quickly"]
+  ]
+}

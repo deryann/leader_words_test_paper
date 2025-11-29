@@ -2,8 +2,14 @@
 
 輸入:
 1. 圖片檔: {jpg_filename}.jpg
-2. 已存在之格式參考: AL-p1.json
-3. 目錄: cfg-202509
+
+輸出到:
+1. 目錄: cfg-202509
+2. 檔名格式: 2A-p{base_jpg_filename}.json
+
+參考資料:
+1. 已存在之格式參考: AL-p1.json
+
 
 步驟要求:
 1. 對圖片做 OCR，擷取每個詞彙卡片上的

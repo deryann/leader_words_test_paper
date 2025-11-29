@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["roaming about from place to place aimlessly, frequently, or without a fixed pattern of movement", "nomadic"],
+    ["the state or fact of continuing to live or exist especially in spite of difficult conditions", "survival"],
+    ["lasting or continuing for a very long time or forever : not temporary or changing", "permanent"],
+    ["to get away from a dangerous place or situation", "escape"],
+    ["unpleasant and difficult to accept or experience", "harsh"],
+    ["in a good state or condition that is not easily changed or likely to change", "stable"],
+    ["a safe place to stay", "shelter"],
+    ["to think about something carefully before making a decision", "consider"],
+    ["a large area of land where wild grass grows", "grassland"],
+    ["without variation, deviation, or change; always", "constantly"]
+  ],
+  "statement": [
+    ["Nomadic people do not have a permanent home.", "Nomadic"],
+    ["The scouts learned basic survival skills.", "survival"],
+    ["She made a permanent home in this country.", "permanent"],
+    ["They managed to escape from the burning building.", "escape"],
+    ["We've had an extremely harsh winter.", "harsh"],
+    ["Children need to be raised in a stable environment.", "stable"],
+    ["The umbrella is a poor shelter from heavy rain.", "shelter"],
+    ["We consider that the defendant is not guilty.", "consider"],
+    ["Horses that run in the grassland are strong.", "grassland"],
+    ["He talked constantly all through the movie.", "constantly"]
+  ]
+}

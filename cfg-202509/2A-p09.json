@@ -1,0 +1,30 @@
+{
+"explain": [
+["a bug that has six legs and three body parts", "insect(s)"],
+["not safe and may cause harm", "dangerous"],
+["to make someone feel afraid", "scare"],
+["attaches to other things easily", "sticky"],
+["something that can cause change or do work", "energy"],
+["a kind of energy that makes things warm", "heat"],
+["to make warmer or hotter", "warm(s)"],
+["to make different; alter the form of", "change"],
+["walking long distances on trails or in nature", "hiking"],
+["running after someone or something to catch it", "chasing"],
+["moving back and forth quickly, often a tail", "wagging"],
+["coming to an end or to a halt", "stopping"]
+],
+"statement": [
+["Ants, flies, and bees are all insects.", "insects"],
+["A bee sting can be dangerous.", "dangerous"],
+["Cockroaches will run away if you scare them.", "scare"],
+["A spider web is sticky.", "sticky"],
+["Light is a kind of energy that makes things hotter.", "energy"],
+["Earth gets heat from the sun.", "heat"],
+["The sun warms the Earth's air, water, and land.", "warms"],
+["Ice will change from a solid to a liquid when it becomes hot.", "change"],
+["Our club goes hiking in the mountains every Sunday.", "hiking"],
+["The police are chasing the suspect down Main Street.", "chasing"],
+["The puppy ran to me, wagging its tail.", "wagging"],
+["The train is stopping at Central Station now.", "stopping"]
+]
+}
