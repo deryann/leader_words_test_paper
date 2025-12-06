@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a liquid dressing used when cooking meat", "barbecue sauce"],
+    ["to journey from place to place", "travel"],
+    ["a machine that lets water flow out", "water fountain"],
+    ["a machine that sucks up dust and dirt", "vacuum(s)"],
+    ["a kind of energy that you can hear", "sound"],
+    ["moves back and forth very fast", "vibrate(s)"],
+    ["to use spoken words", "talk"],
+    ["the body part that connects the head and the body", "neck"],
+    ["less thick or wide than something else", "thinner"],
+    ["the least thick or wide among all", "thinnest"],
+    ["more amusing or making you laugh more", "funnier"],
+    ["the most amusing or making you laugh the most", "funniest"]
+  ],
+  "statement": [
+    ["I like to eat chicken with barbecue sauce on top.", "barbecue sauce"],
+    ["One day I would like to travel to faraway places.", "travel"],
+    ["You can use the water fountain in the park if you are thirsty.", "water fountain"],
+    ["Mom uses the vacuum to clean the floor.", "vacuum"],
+    ["Birds make sounds when they sing.", "sound"],
+    ["A drum vibrates when you strike it.", "vibrates"],
+    ["We should not talk loudly in the library.", "talk"],
+    ["Some parts inside your neck vibrate when you sing.", "neck"],
+    ["This paper is thinner than cardboard, so it bends easily.", "thinner"],
+    ["The thinnest book on the shelf is only ten pages.", "thinnest"],
+    ["The second joke was funnier than the first one.", "funnier"],
+    ["That was the funniest story I have ever heard.", "funniest"]
+  ]
+}
