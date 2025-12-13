@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a way of learning by practicing over and over again", "drill"],
+    ["to shed skin and grow a new skin", "molt(ed)"],
+    ["information that is hidden", "secret"],
+    ["to be friendly without any problems", "get along"],
+    ["how high or low a sound is", "pitch"],
+    ["how loud or soft a sound is", "volume"],
+    ["to speak in a soft, low tone", "whisper"],
+    ["a signal or notice of a possibly dangerous situation", "warning(s)"],
+    ["not happy or feeling sad", "unhappy"],
+    ["to take things out of a box or suitcase", "unpack"],
+    ["to not like something", "dislike"],
+    ["to go away or no longer be seen", "disappear"]
+  ],
+  "statement": [
+    ["We had a fire drill today at school.", "drill"],
+    ["The snake was getting too big for its skin, so it molted.", "molted"],
+    ["Grandpa told me the secret to a long, happy life.", "secret"],
+    ["If we are kind and polite, we will get along just fine.", "get along"],
+    ["A violin has a high pitch.", "pitch"],
+    ["I turned up the volume on the TV to make it louder.", "volume"],
+    ["When you whisper, you use a little energy to make a soft sound.", "whisper"],
+    ["Some sounds are warnings that keep you safe.", "warnings"],
+    ["The boy was unhappy when he lost his favorite toy.", "unhappy"],
+    ["After we arrived at the hotel, we had to unpack our suitcases.", "unpack"],
+    ["I dislike the taste of bitter medicine.", "dislike"],
+    ["The magician made the rabbit disappear from the hat.", "disappear"]
+  ]
+}
