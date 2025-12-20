@@ -1,0 +1,30 @@
+{
+    "explain": [
+        ["excellent or amazing", "wonderful"],
+        ["soft and loud sounds", "noise(s)"],
+        ["making very little or no sound", "quiet"],
+        ["to scatter small pieces around", "sprinkle(d)"],
+        ["a push or a pull", "force"],
+        ["to move something away from you", "push"],
+        ["to move something closer to you", "pull"],
+        ["the way in which an object may face or travel", "direction(s)"],
+        ["to tell a story again", "retell"],
+        ["to fill something again", "refill"],
+        ["to undo a knot or make something loose", "untie"],
+        ["not telling the truth; not honest", "dishonest"]
+    ],
+    "statement": [
+        ["Pets are wonderful.", "wonderful"],
+        ["Big dogs bark loudly. Small dogs do not make such loud noises.", "noises"],
+        ["A lizard is a very quiet pet.", "quiet"],
+        ["The fish food was lightly sprinkled on top of the water.", "sprinkled"],
+        ["My dad used force to move the heavy box.", "force"],
+        ["I push the door to close it.", "push"],
+        ["I pull the drawer to open it.", "pull"],
+        ["A swing moves in opposite directions.", "directions"],
+        ["Can you retell the story you just heard?", "retell"],
+        ["The waiter came to refill my glass of water.", "refill"],
+        ["Please untie the ribbon on the gift box.", "untie"],
+        ["The dishonest boy told lies to his teacher.", "dishonest"]
+    ]
+}

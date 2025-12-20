@@ -1,0 +1,26 @@
+{
+    "explain": [
+        ["a particular way of living: the way a person lives or a group of people live", "lifestyle"],
+        ["the ability to survive for a long time", "sustainability"],
+        ["something that causes people to worry", "concern"],
+        ["the conditions and influences that affect the growth, health, progress, etc., of someone or something", "environment"],
+        ["located or living nearby", "locally"],
+        ["growing or producing food without using artificial chemicals", "organic"],
+        ["a light, strong substance that can be made into different shapes and that is used for making many common products", "plastic"],
+        ["to give an explanation of something", "describe"],
+        ["a person who buys things", "consumer"],
+        ["someone or something that belongs to or is a part of a group or an organization", "member"]
+    ],
+    "statement": [
+        ["Eating right and exercising are essential to having a healthy lifestyle.", "lifestyle"],
+        ["Sustainability is important for the future of the planet.", "Sustainability"],
+        ["Their friend's health is a constant concern.", "concern"],
+        ["We're trying to create a better learning environment.", "environment"],
+        ["Do you shop locally or go to the next town?", "locally"],
+        ["Organic farming is better for the environment.", "Organic"],
+        ["That toy is made of plastic.", "plastic"],
+        ["The police asked her to describe the man.", "describe"],
+        ["It will offer a wider choice of goods for the consumer.", "consumer"],
+        ["The club has 300 members.", "members"]
+    ]
+}
