@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["having nothing else coming in between", "direct"],
+    ["a health state of happiness and wealth", "well-being"],
+    ["a special task or duty", "mission"],
+    ["to give something that someone needs or deserves", "offer"],
+    ["to make (someone) more likely to do something", "encourage"],
+    ["the period of time that will come after the present time", "future"],
+    ["the act of showing that you believe that someone or something is good or acceptable", "support"],
+    ["the space between two objects or places", "distance"],
+    ["a chemical that kills bugs", "pesticide"],
+    ["happening in a short amount of time; happening quickly", "rapid"]
+  ],
+  "statement": [
+    ["He took a direct flight to New York.", "direct"],
+    ["Work also provides psychological well-being.", "well-being"],
+    ["She made it her mission to get her work finished on time.", "mission"],
+    ["They offered him a very good job, but he turned it down.", "offered"],
+    ["We want to encourage students to read more.", "encourage"],
+    ["We're making plans for the future.", "future"],
+    ["The team gets a lot of support from its fans.", "support"],
+    ["It is a long distance from New York to Hong Kong.", "distance"],
+    ["People should store pesticides away from food and drinks.", "pesticides"],
+    ["There's been rapid growth in the number of new businesses in the town.", "rapid"]
+  ]
+}

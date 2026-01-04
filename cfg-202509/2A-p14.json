@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to divide and give out to others", "share"],
+    ["something you saw, felt, or heard", "notice(d)"],
+    ["to be full to the point of breaking open", "burst(ing)"],
+    ["to happen quickly and without warning", "suddenly"],
+    ["a force that pulls objects toward Earth's center", "gravity"],
+    ["land, the earth's solid surface", "ground"],
+    ["a tool that makes some things easier to do", "machine(s)"],
+    ["a flat surface that connects two different levels", "ramp(s)"],
+    ["to move your legs quickly to go somewhere fast", "run"],
+    ["to move at a slow steady running pace for exercise", "jog"],
+    ["not sleeping; with your eyes open", "awake"],
+    ["sleeping; in the state of sleep", "asleep"]
+  ],
+  "statement": [
+    ["These kittens all share a bowl of food.", "share"],
+    ["This pet rabbit noticed, or looked carefully, at the carrot held for it to eat.", "noticed"],
+    ["Look at this crowded basket. It is bursting with puppies!", "bursting"],
+    ["A pet parrot might surprise you if it suddenly says a word.", "suddenly"],
+    ["Gravity makes an apple fall from a tree.", "Gravity"],
+    ["If you trip, you will fall to the ground.", "ground"],
+    ["A lever and a pulley are machines.", "machines"],
+    ["He easily went up the ramp in his wheelchair.", "ramp"],
+    ["The children run to catch the school bus every morning.", "run"],
+    ["My dad likes to jog in the park before breakfast.", "jog"],
+    ["I was still awake at midnight waiting for my parents to come home.", "awake"],
+    ["The baby fell asleep in her mother's arms.", "asleep"]
+  ]
+}
