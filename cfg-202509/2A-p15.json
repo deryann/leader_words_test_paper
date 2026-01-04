@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a person or family who lives near or next to your home", "neighbor(s)"],
+    ["a male chicken", "rooster"],
+    ["a large, hairy spider", "tarantula"],
+    ["an insect that is related to a grasshopper", "cricket"],
+    ["how fast or slow something moves", "speed"],
+    ["to flow downward in drops", "drip(s)"],
+    ["not able to move quickly", "slow"],
+    ["to use a tool to find out how tall or heavy something is", "measure"],
+    ["the number that comes after seven", "eight"],
+    ["to put food in your mouth and swallow it", "ate"],
+    ["an event where things are sold at lower prices", "sale"],
+    ["a piece of cloth attached to a boat to catch wind and make the boat move", "sail"]
+  ],
+  "statement": [
+    ["New neighbors just moved into the house across the street.", "neighbors"],
+    ["The rooster crows early in the morning.", "rooster"],
+    ["Patrick's tarantula likes to eat bugs and hide inside his mother's slippers!", "tarantula"],
+    ["Roger's cricket eats leaves from the garden.", "cricket"],
+    ["Juice pours at a faster speed than honey.", "speed"],
+    ["Honey drips slowly.", "drips"],
+    ["This snail is so slow that it takes a long time to go anywhere!", "slow"],
+    ["The nurse will measure my height once a year.", "measure"],
+    ["Can you count from one to eight?", "eight"],
+    ["The dog ate all the food in his bowl.", "ate"],
+    ["The store has a big sale on shoes this weekend.", "sale"],
+    ["The boat moved quickly when we raised the sail.", "sail"]
+  ]
+}

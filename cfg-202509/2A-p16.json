@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["an action where you roll your body forward head over heels", "somersault(s)"],
+    ["a soft material with holes that can soak up water", "sponge"],
+    ["to no longer be seen", "disappear(ed)"],
+    ["very big; great in size or degree", "huge"],
+    ["moving from one place to another", "motion"],
+    ["to halt something so that it is not moving any more", "stop(s)"],
+    ["having a lot of weight, difficult to lift", "heavy"],
+    ["not heavy", "light"],
+    ["feeling pleased or happy about something", "glad"],
+    ["feeling joy and pleasure", "happy"],
+    ["a long hard surface built for cars and other vehicles to travel on", "road"],
+    ["past tense of ride; sat on and controlled the movement of something like a bike or horse", "rode"]
+  ],
+  "statement": [
+    ["We did somersaults in PE class today.", "somersaults"],
+    ["We used soap and a sponge to wash the dishes.", "sponge"],
+    ["One piece of the puzzle disappeared, so we didn't finish it.", "disappeared"],
+    ["I bought a huge ice cream.", "huge"],
+    ["You can use force to change the motion of something.", "motion"],
+    ["Catching the ball stops its motion.", "stops"],
+    ["I needed to use more force to move the heavy box.", "heavy"],
+    ["My light bags were easy to carry all day.", "light"],
+    ["I am glad that you could come to my party.", "glad"],
+    ["The children were happy to play in the park.", "happy"],
+    ["The road to the beach was very long.", "road"],
+    ["Yesterday I rode my bicycle to school.", "rode"]
+  ]
+}

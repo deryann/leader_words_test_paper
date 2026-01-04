@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["a female that does household chores as a job", "maid"],
+    ["not seen or known", "hidden"],
+    ["a place", "spot"],
+    ["a planned piece of work that has a specific purpose (such as to find information or to make something new) and that usually requires a lot of time", "project"],
+    ["to look after carefully", "nurse"],
+    ["hardly; only just", "barely"],
+    ["to come back", "return"],
+    ["a strong feeling of happiness; great pleasure or satisfaction", "delight"],
+    ["rough in manners or behavior; not gentle", "rude"],
+    ["to express displeasure or unhappiness", "complain"]
+  ],
+  "statement": [
+    ["At nine the maid brought them their breakfast.", "maid"],
+    ["There was a hidden tunnel in the cave.", "hidden"],
+    ["This is the spot where the two trucks crashed.", "spot"],
+    ["Fixing the old house was going to be a big project.", "project"],
+    ["He nursed the house plants through a long winter.", "nursed"],
+    ["Mary had barely enough money to live on.", "barely"],
+    ["She did not return home till eleven o'clock.", "return"],
+    ["We watched the fireworks with delight.", "delight"],
+    ["It's rude to take somebody's things without asking.", "rude"],
+    ["Neighbors complained to the police about the dogs barking.", "complained"]
+  ]
+}
