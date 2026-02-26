@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["any one of a group of very small living things that often cause disease — usually plural", "bacteria"],
+    ["to continue to be or to live", "exist(ed)"],
+    ["to think of or regard (someone or something) in a specified way", "consider(ed)"],
+    ["not very serious; not causing much trouble or damage", "minor"],
+    ["the process of making someone get a disease", "infection"],
+    ["having an important or dangerous possible result", "serious"],
+    ["an illness that affects a person, animal, or plant; a condition that prevents the body or mind from working normally", "disease(s)"],
+    ["expressing disagreement; harmful or bad", "negative"],
+    ["unable to be done or to happen; not possible", "impossible"],
+    ["a good or helpful result or effect", "benefits"]
+  ],
+  "statement": [
+    ["Is the illness caused by bacteria or a virus?", "bacteria"],
+    ["Viruses have existed since the beginning of time.", "existed"],
+    ["I consider the price to be too high.", "consider"],
+    ["He had a minor accident on his way to work.", "minor"],
+    ["He suffered from a lung infection.", "infection"],
+    ["There were serious complications after the surgery.", "serious"],
+    ["He suffers from a rare genetic disease.", "disease"],
+    ["Their criticism was not negative.", "negative"],
+    ["It's impossible to predict the future.", "impossible"],
+    ["There are many benefits to eating healthily.", "benefits"]
+  ]
+}
