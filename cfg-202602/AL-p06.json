@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["a person, place, or thing discussed about", "subject"],
+    ["similar in appearance, nature, or form", "alike"],
+    ["just as it should be", "exactly"],
+    ["used to refer to several different or many different things, people", "various"],
+    ["after a long time", "finally"],
+    ["visible look of a person or thing", "appearance"],
+    ["importance; the special meaning of something", "significance"],
+    ["to create a situation that makes easier for something to happen", "pave"],
+    ["not physical; describing something formed in the mind", "abstract"],
+    ["a state of independence", "freedom"]
+  ],
+  "statement": [
+    ["The subjects covered in this chapter are exercise and nutrition.", "subjects"],
+    ["These two cars look very much alike.", "alike"],
+    ["Tell me exactly where she lives.", "exactly"],
+    ["The car is available in various colors.", "various"],
+    ["After years of arguing, the two brothers finally made up.", "finally"],
+    ["The appearance of the old house completely changed.", "appearance"],
+    ["The crime problem has great significance to the general public.", "significance"],
+    ["The Supreme Court decision paved the way for further legislation on civil rights.", "paved"],
+    ["Modern art is often rather abstract.", "abstract"],
+    ["We do not have the freedom to do just what we like.", "freedom"]
+  ]
+}

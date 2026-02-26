@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["to use something, such as an opportunity, in a way that helps you", "advantage"],
+    ["anything owned", "possession"],
+    ["allowing you to do something easily or without trouble", "convenient"],
+    ["to pass from a liquid to vapor when heated", "boil"],
+    ["to be made up or composed of", "consist"],
+    ["a plant grown for food, usually on a farm", "crop"],
+    ["able to support the growth of many plants", "fertile"],
+    ["a special time or event when people gather to celebrate something", "festival"],
+    ["old; no longer fashionable", "outdated"],
+    ["to think much of; to regard highly", "respect"]
+  ],
+  "statement": [
+    ["We took advantage of the warm weather and did some yard work.", "advantage"],
+    ["Her possessions could fit in one suitcase.", "possessions"],
+    ["The lightweight tent was convenient to carry.", "convenient"],
+    ["We were advised to boil the water before drinking it.", "boil"],
+    ["A university consists of teachers, administrators and students.", "consists"],
+    ["The main crops in Taiwan are rice and fruit.", "crops"],
+    ["The soil in that area is extremely fertile.", "fertile"],
+    ["Each year, a festival was held to celebrate the harvest.", "festival"],
+    ["His writing style is now boring and outdated.", "outdated"],
+    ["I respected their moral standards.", "respected"]
+  ]
+}

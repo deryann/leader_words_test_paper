@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["using more of something than is needed", "wasteful"],
+    ["a way of doing something", "practice"],
+    ["the need or desire to buy particular goods or services", "demand"],
+    ["to catch too many fish so that there are not enough remaining", "overfish"],
+    ["the death of all living members of a certain species", "extinction"],
+    ["people in the government", "official"],
+    ["to make sure that a law or a rule is obeyed by people", "enforce"],
+    ["to observe or record an activity or performance", "monitor"],
+    ["to officially say that someone is not allowed to do something", "ban"],
+    ["food that is part of a cooking process", "ingredient"]
+  ],
+  "statement": [
+    ["Running the tap is wasteful.", "wasteful"],
+    ["It's not considered good practice to reveal clients' names.", "practice"],
+    ["Production is still increasing faster than demand.", "demand"],
+    ["The lake has been overfished.", "overfished"],
+    ["Apes are in danger of extinction.", "extinction"],
+    ["The mayor is an elected official.", "official"],
+    ["Governments make laws and the police enforce them.", "enforce"],
+    ["It is said that the police monitored his phone calls during that period.", "monitored"],
+    ["We have put a ban on smoking.", "ban"],
+    ["What are the ingredients of the cake?", "ingredients"]
+  ]
+}

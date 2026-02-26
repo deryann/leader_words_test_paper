@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["kept hidden from others: known to only a few people", "secret"],
+    ["to prepare and produce a book, magazine, etc. for sale", "publish"],
+    ["very interesting or appealing", "fascinating"],
+    ["moving in a good direction", "positive"],
+    ["an important idea that someone is trying to express in a book, movie, speech, etc.", "message"],
+    ["a child who has lost both parents", "orphan"],
+    ["land that is away from big towns and cities", "countryside"],
+    ["not very often", "rarely"],
+    ["to put up with", "bear"],
+    ["causing sad feelings that come from being apart from other people", "lonely"]
+  ],
+  "statement": [
+    ["Ginger is the secret ingredient in her cake recipe.", "secret"],
+    ["It's a small company that only publishes about four books a year.", "publishes"],
+    ["Her paintings are fascinating.", "fascinating"],
+    ["He has a positive attitude towards life.", "positive"],
+    ["I liked the story but I didn't really agree with the book's message.", "message"],
+    ["The war has left thousands of children as orphans.", "orphans"],
+    ["We took a long drive through the open countryside.", "countryside"],
+    ["He rarely makes a mistake on his work.", "rarely"],
+    ["She was afraid she wouldn't be able to bear the pain.", "bear"],
+    ["It was lonely living out in the country.", "lonely"]
+  ]
+}

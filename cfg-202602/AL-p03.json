@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["believing in a set of organized beliefs, practices, and systems that most often relate to the belief and worship of a higher power", "religious"],
+    ["in the beginning; when something first happened or began", "originally"],
+    ["a day on which work is not done by law or custom", "holiday"],
+    ["a special time or event when people gather to celebrate something", "festival"],
+    ["to have a good time; to spend time doing something that gives you pleasure", "enjoyable"],
+    ["a place that a certain activity or object is centered around", "capital"],
+    ["a special, enjoyable event", "celebration"],
+    ["to continue existing or happening for a particular time", "last"],
+    ["very great in size or amount", "enormous"],
+    ["a public celebration of a special day or event that usually includes many people and groups moving down a street by marching or riding in cars or on special vehicles (called floats)", "parade(s)"]
+  ],
+  "statement": [
+    ["My family is very religious.", "religious"],
+    ["The building was originally a school.", "originally"],
+    ["Friday is a holiday in Muslim countries.", "holiday"],
+    ["Each year, a festival is held to celebrate the harvest.", "festival"],
+    ["We had an enjoyable time at the party.", "enjoyable"],
+    ["Washington is the capital of the United States.", "capital"],
+    ["A Fourth of July celebration includes a display of fireworks.", "celebration"],
+    ["The hot weather lasted for the whole month of June.", "lasted"],
+    ["They live in an enormous house.", "enormous"],
+    ["The town will put on a parade.", "parade"]
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["a person who fights in battles and is known for having courage and skill", "warrior"],
+    ["strong", "tough"],
+    ["brave; able to manage fear", "courageous"],
+    ["to become aware of something", "realize"],
+    ["a person who shows fear or who lacks courage", "coward"],
+    ["to get away; to avoid danger", "escape"],
+    ["to run after or follow in order to catch", "pursue"],
+    ["to lose or release blood because of a cut, injury, etc.", "bleed"],
+    ["to get near something", "approach"],
+    ["to fall in drops", "drip"]
+  ],
+  "statement": [
+    ["He received a medal for being a brave warrior.", "warrior"],
+    ["The men who work on the oil rigs are a tough bunch.", "tough"],
+    ["He is so courageous because he climbed to the top of this huge rock.", "courageous"],
+    ["Do you realize you're an hour late?", "realize"],
+    ["Only a coward would run from danger.", "coward"],
+    ["They ran away to escape the man chasing them.", "escape"],
+    ["The policemen pursued the bank robbers.", "pursued"],
+    ["Her nose started to bleed when the door hit it.", "bleed"],
+    ["As I approached the house, I noticed a light on upstairs.", "approached"],
+    ["Sweat is dripping from his forehead.", "dripping"]
+  ]
+}

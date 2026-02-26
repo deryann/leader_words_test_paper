@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["the effect that something or someone has on a person's thoughts or feelings", "impression"],
+    ["showing people and things as they are in real life", "realistic"],
+    ["to clearly show what something is really like", "capture"],
+    ["a feeling that someone experiences", "emotion"],
+    ["a word or phrase to explain something", "term"],
+    ["in the beginning; when something first happened or began", "originally"],
+    ["the job of collecting, writing, and editing news stories for newspapers, magazines, television, or radio", "journalist"],
+    ["something said or done to cause laughter", "joke"],
+    ["to direct your attention or effort at something specific", "focus"],
+    ["known or recognized by very many people", "famous"]
+  ],
+  "statement": [
+    ["What was your impression of the art work?", "impression"],
+    ["That painting is so realistic!", "realistic"],
+    ["The photograph didn't capture the true beauty of the ocean.", "capture"],
+    ["Love, hatred, and grief are emotions.", "emotions"],
+    ["I am not familiar with chemical terms.", "terms"],
+    ["The building was originally a school.", "originally"],
+    ["She is a great journalist.", "journalist"],
+    ["She meant it as a joke, but many people took her seriously.", "joke"],
+    ["He wanted to focus on his English writing skills.", "focus"],
+    ["He is famous for his basketball skills.", "famous"]
+  ]
+}

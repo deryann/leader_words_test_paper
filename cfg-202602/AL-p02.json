@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["to be more important in value", "outweigh"],
+    ["worth a lot of money", "valuable"],
+    ["having substances that a person or animal needs to be healthy and grow properly; promoting good health and growth", "nutritious"],
+    ["a drug to treat or cure illness", "medication"],
+    ["not often; almost never", "seldom"],
+    ["the ability to remain calm or do something for a long time", "patience"],
+    ["to no longer happen or exist", "disappear"],
+    ["to cover a large area or to gradually affect", "spread"],
+    ["to give and receive at the same time", "exchange"],
+    ["the act of touching or meeting someone", "contact"]
+  ],
+  "statement": [
+    ["The advantages of the plan outweigh its disadvantages.", "outweigh"],
+    ["He bought me a valuable diamond ring as a birthday present.", "valuable"],
+    ["The food was both nutritious and delicious.", "nutritious"],
+    ["He's on medication for high blood pressure.", "medication"],
+    ["We seldom go to the movies.", "seldom"],
+    ["Looking after children requires patience.", "patience"],
+    ["The dinosaurs disappeared long ago.", "disappeared"],
+    ["The fire spread from the factory to the warehouse nearby.", "spread"],
+    ["We exchange gifts at Christmas.", "exchange"],
+    ["Physical contact between a mother and child is very important.", "contact"]
+  ]
+}

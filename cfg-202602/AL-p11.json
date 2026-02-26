@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["to act on someone or something and cause a change", "affect"],
+    ["very old; having lived or existed for a very long time", "ancient"],
+    ["the study of how the positions of the stars and movements of the planets have a supposed influence on events and on the lives and behavior of people", "astrology"],
+    ["the set of emotional qualities, ways of behaving, etc., that makes a person different from other people", "personality"],
+    ["to say that something will or might happen in the future", "predict"],
+    ["a group of stars forming a recognizable pattern in the sky", "constellation"],
+    ["the language of ancient Rome", "Latin"],
+    ["an idea or story that is believed by many people but that is not true", "myth"],
+    ["extremely large", "enormous"],
+    ["likely to be cruel or violent", "vicious"]
+  ],
+  "statement": [
+    ["We learned about the way the oceans are affected by the moon.", "affected"],
+    ["The people in the village still observe the ancient customs of their ancestors.", "ancient"],
+    ["She studied astrology and became an astrologist.", "astrology"],
+    ["We all have different personalities.", "personalities"],
+    ["She claims that she can predict future events.", "predict"],
+    ["He uses a telescope to study the constellations.", "constellations"],
+    ["He speaks Latin fluently.", "Latin"],
+    ["I don't believe the myths about this forest.", "myths"],
+    ["Their sitting room was enormous.", "enormous"],
+    ["Keep away from that dog, he can be vicious.", "vicious"]
+  ]
+}

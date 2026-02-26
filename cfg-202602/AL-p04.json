@@ -1,0 +1,26 @@
+{
+  "explain": [
+    ["to be able to pay for something", "afford"],
+    ["more than what is usual or necessary", "extra"],
+    ["the act or practice of buying and selling something", "trading"],
+    ["a person or company that buys goods from a producer and sells them to someone else", "middlemen"],
+    ["to take in or gather in", "involve"],
+    ["to get by efforts", "earn"],
+    ["having an important or dangerous possible result", "serious"],
+    ["often more than expected", "additional"],
+    ["to give hope or confidence", "encourage"],
+    ["not well-known; not many", "rare"]
+  ],
+  "statement": [
+    ["We can't afford to go on vacation this year.", "afford"],
+    ["Residents can use the gym at no extra cost.", "extra"],
+    ["They were trading products to sell overseas.", "trading"],
+    ["The internet saves buyers money by getting rid of the middlemen and selling directly.", "middlemen"],
+    ["That's no concern of mine. I'm not involved.", "involved"],
+    ["You don't earn much money being a nurse.", "earn"],
+    ["There are some serious problems with fair trade.", "serious"],
+    ["An additional charge is made on baggage exceeding the weight allowance.", "additional"],
+    ["Don't encourage her laziness by doing things for her.", "encourage"],
+    ["This species of plant is becoming increasingly rare.", "rare"]
+  ]
+}
