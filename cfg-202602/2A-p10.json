@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to pull apart into pieces", "tear(ing)"],
+    ["the state of being wise", "wisdom"],
+    ["to get rid of or remove", "clear(ed)"],
+    ["difficulty; needing help", "trouble"],
+    ["all of the living and nonliving things around a living thing", "environment"],
+    ["to continue to live or exist", "survive"],
+    ["the part of an environment where a plant or an animal lives", "habitat"],
+    ["free from harm or danger", "safe"],
+    ["a sharp, curved nail on the foot of an animal like a cat or bird", "claw"],
+    ["to stay on top of water or in the air without sinking", "float"],
+    ["the number that is two times ten", "twenty"],
+    ["a very small, thin branch that has broken off a tree or bush", "twig"]
+  ],
+  "statement": [
+    ["The worker is tearing apart this old sign.", "tearing"],
+    ["The words of wisdom on this billboard teach us to act the right way.", "wisdom"],
+    ["I used a brush to clear the dust off the floor.", "clear"],
+    ["He was having trouble finishing his test.", "trouble"],
+    ["I live in the city. The city is the environment where I live.", "environment"],
+    ["Plants cannot survive if they do not get enough water and sunlight.", "survive"],
+    ["Sharks and whales live in an ocean habitat.", "habitat"],
+    ["We were safe at home when the storm hit.", "safe"],
+    ["The cat used its claw to scratch the side of the chair.", "claw"],
+    ["The toy boat began to float across the pond when the wind blew.", "float"],
+    ["She counted twenty steps from the classroom door to the wall.", "twenty"],
+    ["The bird picked up a twig and carried it back to build its nest.", "twig"]
+  ]
+}

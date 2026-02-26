@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["usual or normal", "ordinary"],
+    ["having great meaning or value", "important"],
+    ["belonging to oneself", "own"],
+    ["a different choice", "another"],
+    ["a small river", "stream"],
+    ["an animal with a hard covering over its body; a bug", "insect(s)"],
+    ["a brightly colored insect with a long, narrow body", "dragonfly"],
+    ["measuring little from top to bottom; not deep", "shallow"],
+    ["the season after winter when plants begin to grow and the weather becomes warmer", "spring"],
+    ["a small metal piece with a pointed end used to hold things together", "screw"],
+    ["a device that makes light, usually with a bulb inside", "lamp"],
+    ["a black and white animal that can spray a very bad smell when frightened", "skunk"]
+  ],
+  "statement": [
+    ["The signmaker turned ordinary letters into beautiful words.", "ordinary"],
+    ["A stop sign is very important to keep our roads safe.", "important"],
+    ["She has a box full of her own toys.", "own"],
+    ["He looked around the town for another place to eat.", "another"],
+    ["The deer go to the stream to drink some water.", "stream"],
+    ["Frogs like to eat insects such as flies.", "insects"],
+    ["A dragonfly uses its sense of sight to hunt for flying insects.", "dragonfly"],
+    ["Don't dive into a shallow swimming pool.", "shallow"],
+    ["In spring, the flowers bloom and the birds begin to sing.", "spring"],
+    ["Dad used a screw to fix the broken shelf.", "screw"],
+    ["I turned on the lamp so I could read my book at night.", "lamp"],
+    ["We saw a skunk in the yard and quickly went back inside.", "skunk"]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a person who rules on plays in a game; referee", "umpire"],
+    ["the baseball player who throws the ball to the batter", "pitcher"],
+    ["to go along with others", "join"],
+    ["to stop trying to do something", "give up"],
+    ["to make more living things of the same kind", "reproduce"],
+    ["the group of living things that come from the same living thing", "offspring"],
+    ["in the same way; similar", "alike"],
+    ["not the same; not alike", "different"],
+    ["a round object with a map of the world on its surface", "globe"],
+    ["small white pieces of frozen water that fall from the sky in cold weather", "snow"],
+    ["the sweet part of a plant that you can eat and that holds its seeds", "fruit"],
+    ["a sticky substance used to join things together", "glue"]
+  ],
+  "statement": [
+    ["The umpire called out \"Strike one!\"", "umpire"],
+    ["The pitcher threw a fastball and Jackie missed.", "pitcher"],
+    ["Jackie ran to the dugout to join the other players.", "join"],
+    ["Don't give up just because it's difficult.", "give up"],
+    ["All living things grow, change, and reproduce.", "reproduce"],
+    ["The mother cat takes care of her offspring.", "offspring"],
+    ["A frog and a toad are animals that look alike.", "alike"],
+    ["Some adults look different to their offspring.", "different"],
+    ["She spun the globe and pointed to the country she wanted to visit.", "globe"],
+    ["The children ran outside to play when they saw snow falling from the sky.", "snow"],
+    ["She packed an apple and a banana as fruit for her lunch.", "fruit"],
+    ["He used glue to stick the two pieces of paper together for his art project.", "glue"]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a strong hope or goal", "dream(s)"],
+    ["to prepare oneself to be fit", "train(ing)"],
+    ["to make a strong effort", "struggle(d)"],
+    ["to annoy or give trouble to", "bother(ed)"],
+    ["the order in which the energy passes from one living thing to another", "food chain"],
+    ["to join or unite by a link or connection", "link(ed)"],
+    ["information on which way to go", "direction"],
+    ["a model that shows how different food chains are related", "food web"],
+    ["to hit a door or surface with your hand to get someone's attention", "knock"],
+    ["a tool with a sharp blade used for cutting", "knife"],
+    ["to cover something completely by folding material around it", "wrap"],
+    ["the part of your body between your hand and your arm", "wrist"]
+  ],
+  "statement": [
+    ["His dream is to become a superhero.", "dream"],
+    ["Dex started training to become a superhero.", "training"],
+    ["Dex struggled to climb over the garbage pile.", "struggled"],
+    ["He was too busy to be bothered by Cleevis.", "bothered"],
+    ["A food chain shows the order in which energy passes from one living thing to another.", "food chain"],
+    ["A food chain links the energy from the sun to algae, to small fish to big fish.", "links"],
+    ["Which direction did they go in?", "direction"],
+    ["When a food web changes, the lives of the other living things in the web can change too.", "food web"],
+    ["Please knock on the door before you come in.", "knock"],
+    ["He used a knife to cut the apple into slices.", "knife"],
+    ["She used paper to wrap the birthday present.", "wrap"],
+    ["She wore a pretty bracelet on her wrist.", "wrist"]
+  ]
+}

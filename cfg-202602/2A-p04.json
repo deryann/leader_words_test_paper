@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a person who takes care of a library", "librarian"],
+    ["not including; but", "except"],
+    ["holding nothing", "empty"],
+    ["to ask in a polite way to come somewhere or do something", "invite(d)"],
+    ["the series of changes that a living thing goes through as it grows", "life cycle"],
+    ["to start to grow", "sprout(s)"],
+    ["a young plant that grows from a seed", "seedling"],
+    ["a person who is fully grown", "adult"],
+    ["a car that you pay to ride in to go somewhere", "cab"],
+    ["a small nail with a big flat head used to pin things to a board", "tack"],
+    ["to move your body through water using your arms and legs", "swim"],
+    ["something given to a person for free to make them happy", "gift"]
+  ],
+  "statement": [
+    ["The librarian helped me borrow some books from the library.", "librarian"],
+    ["Every tie was sold, except the blue one.", "except"],
+    ["The nest was empty, all the birds had flown away.", "empty"],
+    ["Mr. Tanen had invited the whole town to the ceremony.", "invited"],
+    ["The life cycle of a butterfly can take between 30-200 days!", "life cycle"],
+    ["The seeds start to sprout in the spring.", "sprout"],
+    ["The seedling has only a few leaves and little roots that grow down.", "seedling"],
+    ["When I am an adult, I want to be fit and healthy like my dad.", "adult"],
+    ["They called a cab to take them to the train station.", "cab"],
+    ["She used a tack to hang her drawing on the bulletin board.", "tack"],
+    ["The children learned to swim across the pool without stopping.", "swim"],
+    ["She wrapped the gift in bright paper and put a bow on top.", "gift"]
+  ]
+}

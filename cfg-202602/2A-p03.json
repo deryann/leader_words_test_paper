@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["the person who is head of a school", "principal"],
+    ["including all parts; whole", "entire"],
+    ["a person who guards something", "watchman"],
+    ["a sale where things are sold to the people who offer the most money", "auction"],
+    ["to put things or people with others that are similar", "group"],
+    ["part of a nonflowering plant where seeds form", "cone"],
+    ["a root that has one main branch", "taproot"],
+    ["a root that has many thin branches", "fibrous root"],
+    ["the big, bright star in the sky that gives us light and heat every day", "sun"],
+    ["a long, bendy tube that water can flow through", "hose"],
+    ["a thin, soft piece of paper used to wipe your nose or face", "tissue"],
+    ["a smooth substance used with water to clean skin or hands", "soap"]
+  ],
+  "statement": [
+    ["Mr. Tanen is the principal of Lynnhurst School.", "principal"],
+    ["The entire class was preparing for the spelling test.", "entire"],
+    ["The watchman keeps our building safe at night.", "watchman"],
+    ["All the ties would be sold at the auction.", "auction"],
+    ["The teacher can group the students into boys and girls.", "group"],
+    ["The cone protects the seed while it is forming.", "cone"],
+    ["A carrot is a taproot that we can eat.", "taproot"],
+    ["A tomato plant has a fibrous root.", "fibrous root"],
+    ["The sun shone brightly through the window and warmed the room.", "sun"],
+    ["She used the hose to water all the flowers in the garden.", "hose"],
+    ["He pulled a tissue from the box and blew his nose.", "tissue"],
+    ["The doctor reminded us to scrub with soap for at least twenty seconds.", "soap"]
+  ]
+}

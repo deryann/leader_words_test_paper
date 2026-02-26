@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a body tissue that can contract and produce movement", "muscles"],
+    ["an outfit", "suit"],
+    ["a sudden scare that makes everyone feel alarmed", "panic"],
+    ["to move quickly using both the hands and feet", "scramble(d)"],
+    ["food that is good for your body", "healthful food"],
+    ["a natural substance needed for good health", "vitamins"],
+    ["a small meal eaten between meals", "snacks"],
+    ["a meal with foods from the different food groups", "healthful meal"],
+    ["a young sheep", "lamb"],
+    ["to go up something using your hands and feet", "climb"],
+    ["a very small flying insect that bites", "gnat"],
+    ["to bite and chew on something for a long time", "gnaw"]
+  ],
+  "statement": [
+    ["After weeks of training, Dex saw that he had muscles.", "muscles"],
+    ["Dex wore a red suit with a red cape.", "suit"],
+    ["The whole neighborhood was yelling in a panic.", "panic"],
+    ["The squirrel scrambled onto the branch of the tree.", "scrambled"],
+    ["It is important to eat healthful food at each meal and as snacks.", "healthful food"],
+    ["We get most of our vitamins from food.", "vitamins"],
+    ["We have an afternoon snack every afternoon at 3:20pm.", "snack"],
+    ["A dinner plate with a potato, fish, and a salad is a healthful meal.", "healthful meal"],
+    ["The little lamb stayed close to its mother in the field.", "lamb"],
+    ["The children love to climb the big tree in the backyard.", "climb"],
+    ["A gnat flew into my eye while I was walking outside.", "gnat"],
+    ["The dog likes to gnaw on his bone.", "gnaw"]
+  ]
+}

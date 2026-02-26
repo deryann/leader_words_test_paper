@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to trust or rely on someone or something", "depend(ed)"],
+    ["painful; hurting", "sore"],
+    ["jumped forward suddenly", "sprang"],
+    ["to try to learn something", "study/studied"],
+    ["an overflow of water onto land", "flood"],
+    ["a long time with little or no rain", "drought"],
+    ["to change behavior so that it is easier to live in a particular place", "adapt"],
+    ["the group of people, such as a family, that lives in a particular house", "household"],
+    ["a box where letters and packages are delivered to your home", "mailbox"],
+    ["a thin string used to tie a shoe closed", "shoelace"],
+    ["a sport where two teams try to score points by carrying or throwing an oval ball", "football"],
+    ["a bag with two straps that you wear on your back to carry things", "backpack"]
+  ],
+  "statement": [
+    ["The dog depended on its owner for food and water.", "depended"],
+    ["The man bumped his toe. His toe is sore.", "sore"],
+    ["The cat saw the food. She sprang toward her dish.", "sprang"],
+    ["Before getting a puppy, the girl studied a book about dog care.", "studied"],
+    ["Too much rain can cause a flood.", "flood"],
+    ["The farmers could not grow any corn because of the long drought.", "drought"],
+    ["Animals can learn to adapt to their changed environments.", "adapt"],
+    ["There are four people living in my household.", "household"],
+    ["I found a birthday card in the mailbox from my grandmother.", "mailbox"],
+    ["He stopped to tie his shoelace before running the race.", "shoelace"],
+    ["The boys played football on the field during recess.", "football"],
+    ["She put her books and lunch in her backpack before going to school.", "backpack"]
+  ]
+}

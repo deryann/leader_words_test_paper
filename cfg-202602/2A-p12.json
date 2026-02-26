@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["the part of a store that faces a street", "storefront"],
+    ["unable to understand something clearly", "confused"],
+    ["responsibility for a mistake", "fault"],
+    ["to follow a command or instruction", "obey(ing)"],
+    ["a place with many trees and bushes", "woodland"],
+    ["to move upward; to go towards the top", "climb(ing)"],
+    ["to move through the air using wings", "fly(ing)"],
+    ["something that plants and animals use to live", "resource"],
+    ["to spread or throw things so they go out in many different directions", "scatter"],
+    ["to say nice things to someone to make them feel good about themselves", "flatter"],
+    ["came down from the air and touched the ground", "landed"],
+    ["gave something to someone using your hand", "handed"]
+  ],
+  "statement": [
+    ["The new sign was added to the storefront for everyone to see.", "storefront"],
+    ["Without the proper store signs, shoppers became confused.", "confused"],
+    ["Whose fault is it that the work didn't get done?", "fault"],
+    ["The dog tries so hard to obey its owner.", "obey"],
+    ["There are many trees in the woodland.", "woodland"],
+    ["A squirrel has sharp claws that are good for climbing trees.", "climbing"],
+    ["A hawk uses its long and strong wings for flying.", "flying"],
+    ["A tree is a resource because it can give a living thing food and shelter.", "resource"],
+    ["The strong wind began to scatter the dry leaves all over the yard.", "scatter"],
+    ["She tried to flatter her teacher by saying the homework was fun.", "flatter"],
+    ["The bird landed on the branch and began to sing.", "landed"],
+    ["She handed her test paper to the teacher when she was done.", "handed"]
+  ]
+}

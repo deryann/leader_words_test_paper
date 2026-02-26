@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["a person who gives help", "assistant"],
+    ["to have the same idea or opinion", "agree(d)"],
+    ["showing good manners to others", "polite"],
+    ["to not do what is expected", "fail(ed)"],
+    ["to come out of an egg", "hatch"],
+    ["to no longer be seen", "disappear"],
+    ["a wormlike thing that hatches from an egg", "larva"],
+    ["the stage between larva and adult when an insect changes form", "pupa"],
+    ["a round, soft fruit with fuzzy skin that is sweet and juicy inside", "peach"],
+    ["a tiny part of a plant that can grow into a new plant when put in soil", "seed"],
+    ["to win against someone in a game or competition", "beat"],
+    ["to notice something through touch, or to have an emotion inside you", "feel"]
+  ],
+  "statement": [
+    ["The assistant is helping to put up this sign.", "assistant"],
+    ["The people agreed that this road needed a stop sign.", "agreed"],
+    ["This sign reminds children to be polite, or nice, to others.", "polite"],
+    ["The sign failed to keep the dog off the grass.", "failed"],
+    ["All baby birds hatch from eggs.", "hatch"],
+    ["The magician made the person disappear!", "disappear"],
+    ["The butterfly larva hatches from an egg.", "larva"],
+    ["A larva grows and sheds its skin, and then it turns into a pupa.", "pupa"],
+    ["She bit into the peach and juice dripped down her chin.", "peach"],
+    ["He dropped each seed into a small hole in the ground and covered it with dirt.", "seed"],
+    ["Our team worked very hard to beat the other school in the final game.", "beat"],
+    ["She reached into the bag to feel if the fruit was soft enough to eat.", "feel"]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to laugh softly", "chuckle(d)"],
+    ["to look in a fixed way with eyes wide open", "staring"],
+    ["to do or say again", "repeat(ed)"],
+    ["a supply of money raised and kept for a certain purpose", "fund"],
+    ["the plant part where fruit and seeds come from", "flower"],
+    ["the part of a flower that grows around a seed", "fruit"],
+    ["the part from which a new plant grows", "seed"],
+    ["the main stem of a tree", "trunk"],
+    ["a shape with a round bottom and a pointed top", "cone"],
+    ["a large place where many people live and work together", "city"],
+    ["a part of a fence or wall that can open and close to let people through", "gate"],
+    ["bigger than most other things of the same kind", "large"]
+  ],
+  "statement": [
+    ["Her dad chuckled when he saw her tiny piggy bank.", "chuckled"],
+    ["He had been staring at his computer screen for a long time.", "staring"],
+    ["The carwash was such a big success that the class repeated it in May.", "repeated"],
+    ["The players got new shirts by raising money for the team fund.", "fund"],
+    ["A flower is a plant part where fruits and seeds form.", "flower"],
+    ["I like to eat fruit for breakfast.", "fruit"],
+    ["The seed can grow into a new plant.", "seed"],
+    ["The trunk of a tree is usually brown.", "trunk"],
+    ["The ice cream sat on top of a cone and dripped in the hot sun.", "cone"],
+    ["The city was full of tall buildings, busy roads, and thousands of people.", "city"],
+    ["The farmer opened the gate so the cows could walk into the field.", "gate"],
+    ["The large dog could not fit through the small door.", "large"]
+  ]
+}

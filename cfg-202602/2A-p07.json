@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["in the opposite direction to", "against"],
+    ["a large number of people gathered together", "crowd"],
+    ["out of control", "wild"],
+    ["the player who is behind the batter at home plate in baseball", "catcher"],
+    ["a body part or action that helps a living thing meet its needs where it lives", "adaptation"],
+    ["a thin, sharp nail on the foot of an animal", "claw(s)"],
+    ["a wide, flat limb on a whale, fish, or turtle, that is used for swimming", "flipper(s)"],
+    ["having an empty space on the inside", "hollow"],
+    ["to slowly lose color or become less bright over time", "fade"],
+    ["a thin piece of metal with a sharp point used to join pieces of wood together", "nail"],
+    ["fully grown and ready to be eaten", "ripe"],
+    ["a baked food with a pastry crust and a sweet filling inside", "pie"]
+  ],
+  "statement": [
+    ["He threw the ball against the wall.", "against"],
+    ["There was a crowd at the baseball game.", "crowd"],
+    ["The moose went wild running around and nobody could catch it!", "wild"],
+    ["The catcher catches the ball that is thrown by the pitcher.", "catcher"],
+    ["A leopard has sharp teeth to tear meat. This is an example of a leopard's adaptation.", "adaptation"],
+    ["The tiger's claws help it catch other animals to eat.", "claws"],
+    ["A penguin cannot swim without its flippers.", "flippers"],
+    ["I found a hollow log in the forest.", "hollow"],
+    ["The old photograph began to fade after many years in the sunlight.", "fade"],
+    ["He hit the nail with a hammer to hang the picture on the wall.", "nail"],
+    ["The bananas turned yellow, which meant they were ripe and ready to eat.", "ripe"],
+    ["She cut the apple pie into eight pieces and gave one to each guest.", "pie"]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to look for a long time", "gaze/gazing"],
+    ["a person or thing who is brave", "hero"],
+    ["to do an activity to keep the body healthy", "exercise"],
+    ["to fail to see or notice", "overlook(ed)"],
+    ["the ability to do things", "energy"],
+    ["the power to do something", "ability"],
+    ["the light of the sun; sunshine", "sunlight"],
+    ["as the single instance", "only"],
+    ["a small flower with white petals and a yellow center", "daisy"],
+    ["a very young dog", "puppy"],
+    ["to let tears fall from your eyes because you are sad or hurt", "cry"],
+    ["a person whose job is to secretly watch others and collect information", "spy"]
+  ],
+  "statement": [
+    ["This rabbit is gazing, or looking closely, at a squirrel.", "gazing"],
+    ["This man is a hero. He saved the boys from getting hurt.", "hero"],
+    ["A dog needs to exercise every day to stay healthy.", "exercise"],
+    ["They overlooked, or didn't see, where the dog was hiding.", "overlooked"],
+    ["Spiders hunt and eat insects to get energy.", "energy"],
+    ["Most birds have the ability to fly.", "ability"],
+    ["I wake up when I see the morning sunlight in my room.", "sunlight"],
+    ["Some animals eat only plants.", "only"],
+    ["There is a daisy growing in the garden.", "daisy"],
+    ["The puppy followed me all the way home.", "puppy"],
+    ["The baby began to cry when she was hungry.", "cry"],
+    ["The spy hid behind the wall to listen to the conversation.", "spy"]
+  ]
+}

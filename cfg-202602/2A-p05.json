@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to do something many times to get better at it", "practice"],
+    ["to move or act with speed", "hurry/hurried"],
+    ["the proper place or location", "position"],
+    ["to make a deep, loud cry or shout", "roar(ed)"],
+    ["an animal that has fur or hair and makes milk to feed its young", "mammals"],
+    ["an organ in the body that helps us breathe air", "lung(s)"],
+    ["an animal that has feathers and wings", "bird"],
+    ["a soft and light covering of a bird", "feather(s)"],
+    ["a soft cloth covering that goes over your foot and under your shoe", "sock"],
+    ["a small body of still water that is smaller than a lake", "pond"],
+    ["the part of a tree that is left in the ground after the rest has been cut down", "stump"],
+    ["a bird with webbed feet and a flat bill that lives near water", "duck"]
+  ],
+  "statement": [
+    ["If you practice hitting the baseball every day, your hitting will get better.", "practice"],
+    ["The soccer player hurried to stop the ball.", "hurried"],
+    ["The batter is in position to hit the baseball.", "position"],
+    ["The lion roared loudly to scare the zebra.", "roared"],
+    ["Most mammals grow inside the mother.", "mammals"],
+    ["All mammals use their lungs to breathe.", "lungs"],
+    ["An ostrich is a very large bird that cannot fly.", "bird"],
+    ["Feathers keep a bird warm and dry and help it fly.", "Feathers"],
+    ["He could not find the other sock, so he wore two that did not match.", "sock"],
+    ["The frogs sat on the lily pads floating across the pond.", "pond"],
+    ["The children sat on the old stump in the forest and ate their lunch.", "stump"],
+    ["The duck waddled to the edge of the pond and slipped into the water.", "duck"]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["to get or take something", "receive(d)"],
+    ["a record of money spent or received", "account"],
+    ["a plan for how much money will be spent", "budget"],
+    ["not happy because what was wished for did not happen", "disappoint(ed)"],
+    ["things that grow and change", "living thing(s)"],
+    ["a place where a living thing can be safe", "shelter"],
+    ["to defend or keep safe", "protect"],
+    ["a material in soil that helps a plant live and grow", "nutrient(s)"],
+    ["a small wooden house, usually built in the forest or mountains", "cabin"],
+    ["containers with flat sides used to hold or carry things", "boxes"],
+    ["coins and paper bills that people use to buy things", "money"],
+    ["a small creature with eight legs that spins webs to catch insects", "spider"]
+  ],
+  "statement": [
+    ["The boys received some money for raking leaves in the yard.", "received"],
+    ["The girl opened a bank account with the money from her allowance.", "account"],
+    ["A budget is a plan for how you should spend your money.", "budget"],
+    ["He was disappointed, or sad, that he would not be able to buy the book.", "disappointed"],
+    ["Plants and animals are living things.", "living things"],
+    ["Some animals use a hole in a tree for shelter.", "shelter"],
+    ["The umbrella can protect the family from the hot sun.", "protect"],
+    ["Roots take in water and nutrients from the soil.", "nutrients"],
+    ["The family stayed in a warm cabin near the lake during the cold winter.", "cabin"],
+    ["The teacher packed all the books into boxes before moving to the new classroom.", "boxes"],
+    ["She saved her money each week so she could buy a gift for her friend.", "money"],
+    ["A spider spun a thin web between two branches to catch insects for food.", "spider"]
+  ]
+}

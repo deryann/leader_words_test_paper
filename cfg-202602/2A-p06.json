@@ -1,0 +1,30 @@
+{
+  "explain": [
+    ["more than is expected", "extra"],
+    ["a raised rim where the street meets the sidewalk", "curb"],
+    ["to shout in happiness or praise", "cheer(ed)"],
+    ["happening at the end of something; last", "final"],
+    ["an animal whose skin is covered with dry scales", "reptile(s)"],
+    ["the hard thin covering of a fish or reptile", "scales"],
+    ["an animal that lives part of its life in water and part of its life on land", "amphibian(s)"],
+    ["an animal that lives in water and has gills", "fish"],
+    ["a long strip of leather or cloth worn around the waist to hold up pants", "belt"],
+    ["a piece of clothing without sleeves worn over a shirt", "vest"],
+    ["a hollow metal object that makes a ringing sound when it is hit", "bell"],
+    ["a home made by a bird from twigs and grass to hold its eggs", "nest"]
+  ],
+  "statement": [
+    ["The extra players for the football team sat on the bench.", "extra"],
+    ["After skating, the girl rested on the curb outside her house.", "curb"],
+    ["The audience clapped and cheered as the player scored a goal.", "cheered"],
+    ["When the game ended, the final score was four to two.", "final"],
+    ["Lizards, turtles, crocodiles, and snakes are reptiles.", "reptiles"],
+    ["The scales of a fish can be round and colorful.", "scales"],
+    ["Frogs and salamanders are amphibians.", "amphibians"],
+    ["Fish live in water all of their lives.", "Fish"],
+    ["He tightened the belt around his waist so his pants would not fall down.", "belt"],
+    ["She wore an orange vest so the drivers could see her on the dark road.", "vest"],
+    ["The bell rang loudly to tell the students that class was over.", "bell"],
+    ["The robin built a nest in the oak tree and laid three blue eggs inside.", "nest"]
+  ]
+}
