@@ -15,15 +15,16 @@ except ImportError:
 
 from interfaces import GUIManagerInterface, IconManagerInterface
 from exceptions import GUIError
+from variables import BASE_DIR
 
 
 class IconManager(IconManagerInterface):
     """Manages application icon setup for GUI windows."""
-    
+
     def __init__(self, icon_folder: str = "icons"):
         self.icon_folder = icon_folder
-        self.png_path = os.path.abspath(os.path.join(icon_folder, "score.png"))
-        self.ico_path = os.path.abspath(os.path.join(icon_folder, "score.ico"))
+        self.png_path = os.path.join(BASE_DIR, icon_folder, "score.png")
+        self.ico_path = os.path.join(BASE_DIR, icon_folder, "score.ico")
     
     def setup_icon(self, root_window) -> None:
         """Setup application icon for the given window."""

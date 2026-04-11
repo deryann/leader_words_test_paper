@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["a person, place, or thing discussed about", "subject"],
-    ["similar in appearance, nature, or form", "alike"],
-    ["just as it should be", "exactly"],
-    ["used to refer to several different or many different things, people", "various"],
-    ["after a long time", "finally"],
-    ["visible look of a person or thing", "appearance"],
-    ["importance; the special meaning of something", "significance"],
-    ["to create a situation that makes easier for something to happen", "pave"],
-    ["not physical; describing something formed in the mind", "abstract"],
-    ["a state of independence", "freedom"]
+    ["a hard substance that comes from the ground and is used for building and carving", "stone"],
+    ["a machine that prints books, magazines, newspapers, etc., usually in large numbers", "printing press"],
+    ["to create or produce (something useful) for the first time", "invent(ed)"],
+    ["a sudden or major change in action and thought", "revolution"],
+    ["to carry something or someone from one place to another", "transport"],
+    ["having many details that make it difficult to understand", "complex"],
+    ["the use of science in industry, engineering, etc., to invent useful things or to solve problems", "technology"],
+    ["an object that is sent into space to travel around the Earth", "satellite"],
+    ["to improve; to move forward", "advance"],
+    ["easy to use", "convenient"]
   ],
   "statement": [
-    ["The subjects covered in this chapter are exercise and nutrition.", "subjects"],
-    ["These two cars look very much alike.", "alike"],
-    ["Tell me exactly where she lives.", "exactly"],
-    ["The car is available in various colors.", "various"],
-    ["After years of arguing, the two brothers finally made up.", "finally"],
-    ["The appearance of the old house completely changed.", "appearance"],
-    ["The crime problem has great significance to the general public.", "significance"],
-    ["The Supreme Court decision paved the way for further legislation on civil rights.", "paved"],
-    ["Modern art is often rather abstract.", "abstract"],
-    ["We do not have the freedom to do just what we like.", "freedom"]
+    ["The old stone house survived the earthquake.", "stone"],
+    ["The original printing press was hand operated.", "printing press"],
+    ["Thomas Edison invented the phonograph.", "invented"],
+    ["The automobile caused a revolution in our way of traveling.", "revolution"],
+    ["Trucks are used for transporting oil.", "transporting"],
+    ["It was a complex problem.", "complex"],
+    ["Recent advances in medical technology have saved countless lives.", "technology"],
+    ["The space shuttle orbited a communications satellite.", "satellite"],
+    ["We have greatly advanced in our knowledge of the world.", "advanced"],
+    ["Please come whenever it is convenient for you.", "convenient"]
   ]
 }

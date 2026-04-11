@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["everything that exists in a particular environment", "ecosystem"],
-    ["an animal that lives by killing and eating other animals", "predator"],
-    ["a series of types of living things in which each one uses the next lower member of the series as a source of food", "food chain"],
-    ["a group of animals or plants that are similar and can produce young animals or plants", "species"],
-    ["decided or controlled by something else", "dependent"],
-    ["an animal that is caught and eaten by another animal", "prey"],
-    ["to cause something to end or no longer exist", "destroy"],
-    ["to fill with terror", "terrify"],
-    ["something that a person or place is known for making or producing very well", "specialty"],
-    ["used to describe people who hurt others and do not feel sorry about it", "cruel"]
+    ["to say or ask (something) in a very forceful way", "demand(ed)"],
+    ["not changing; the same for each person", "equal"],
+    ["action or behavior toward a person, animal, etc", "treatment"],
+    ["the use of physical force to harm someone, to damage property, etc.", "violence"],
+    ["not being treated equally", "inequality"],
+    ["people in general thought of as living together in organized communities with shared laws, traditions, and values", "society"],
+    ["a person who is very successful and admired", "iconic"],
+    ["to separate into different pieces", "divide"],
+    ["a document which shows that a person has finished a course of study or has graduated from a school", "diploma"],
+    ["participating in an action or activity", "actively"]
   ],
   "statement": [
-    ["An ecosystem includes living things and nonliving things.", "ecosystem"],
-    ["The population of rabbits is controlled by natural predators.", "predators"],
-    ["Sharks eat fish that are lower in the food chain.", "food chain"],
-    ["There are approximately 8,000 species of ants.", "species"],
-    ["Whether we go to the beach or not is dependent on the weather.", "dependent"],
-    ["The lion was hunting for its prey.", "prey"],
-    ["The fire destroyed the building.", "destroyed"],
-    ["The girl was terrified after watching the horror movie.", "terrified"],
-    ["That restaurant's specialty is dumplings.", "specialty"],
-    ["I can't trust someone who is cruel to animals.", "cruel"]
+    ["He demanded an apology.", "demanded"],
+    ["We need to have equal academic standards for male and female students.", "equal"],
+    ["Civil rights groups have complained about the harsh treatment of prisoners.", "treatment"],
+    ["They need to learn how to settle their arguments without resorting to violence.", "violence"],
+    ["There are inequalities in wealth distribution.", "inequalities"],
+    ["Racism hurts society as a whole.", "society"],
+    ["Lady Gaga is known for her iconic outfits.", "iconic"],
+    ["The teacher divided our class into four groups.", "divided"],
+    ["He earned his high school diploma by attending classes at night.", "diploma"],
+    ["She actively participates in anti-war rallies.", "actively"]
   ]
 }
