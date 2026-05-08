@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["to act on someone or something and cause a change", "affect"],
-    ["very old; having lived or existed for a very long time", "ancient"],
-    ["the study of how the positions of the stars and movements of the planets have a supposed influence on events and on the lives and behavior of people", "astrology"],
-    ["the set of emotional qualities, ways of behaving, etc., that makes a person different from other people", "personality"],
-    ["to say that something will or might happen in the future", "predict"],
-    ["a group of stars forming a recognizable pattern in the sky", "constellation"],
-    ["the language of ancient Rome", "Latin"],
-    ["an idea or story that is believed by many people but that is not true", "myth"],
-    ["extremely large", "enormous"],
-    ["likely to be cruel or violent", "vicious"]
+    ["stories about how people and societies are affected by imaginary scientific developments in the future", "science fiction"],
+    ["something that is produced by the imagination; an idea about doing something that is far removed from normal reality", "fantasy"],
+    ["to say that something probably will not happen or is not true", "unlikely"],
+    ["a person who appears in a story, book, play, movie, or television show", "character"],
+    ["to hold a person against their will", "kidnap"],
+    ["strange, unknown, or difficult to understand", "mysterious"],
+    ["the act of picking or deciding between two or more possibilities", "choice(s)"],
+    ["a small, rounded object that you swallow and that contains medicine, vitamins, etc.", "pill"],
+    ["to see, find, or become aware of (something) for the first time", "discover(s)"],
+    ["the state of being real", "reality"]
   ],
   "statement": [
-    ["We learned about the way the oceans are affected by the moon.", "affected"],
-    ["The people in the village still observe the ancient customs of their ancestors.", "ancient"],
-    ["She studied astrology and became an astrologist.", "astrology"],
-    ["We all have different personalities.", "personalities"],
-    ["She claims that she can predict future events.", "predict"],
-    ["He uses a telescope to study the constellations.", "constellations"],
-    ["He speaks Latin fluently.", "Latin"],
-    ["I don't believe the myths about this forest.", "myths"],
-    ["Their sitting room was enormous.", "enormous"],
-    ["Keep away from that dog, he can be vicious.", "vicious"]
+    ["Time travel exists only in the realm of science fiction.", "science fiction"],
+    ["Her fantasy is to be a film star.", "fantasy"],
+    ["It is unlikely that I will ever travel to the Moon.", "unlikely"],
+    ["The film's main characters are a woman in her late 30s and her parents.", "characters"],
+    ["He was kidnapped by terrorists last week.", "kidnapped"],
+    ["A mysterious stranger came to our door.", "mysterious"],
+    ["He has some important choices to make.", "choices"],
+    ["She took a pill for her headache.", "pill"],
+    ["Several new species of plants have recently been discovered.", "discovered"],
+    ["His dream has become a reality.", "reality"]
   ]
 }

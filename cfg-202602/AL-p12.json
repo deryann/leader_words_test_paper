@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["a person who fights in battles and is known for having courage and skill", "warrior"],
-    ["strong", "tough"],
-    ["brave; able to manage fear", "courageous"],
-    ["to become aware of something", "realize"],
-    ["a person who shows fear or who lacks courage", "coward"],
-    ["to get away; to avoid danger", "escape"],
-    ["to run after or follow in order to catch", "pursue"],
-    ["to lose or release blood because of a cut, injury, etc.", "bleed"],
-    ["to get near something", "approach"],
-    ["to fall in drops", "drip"]
+    ["to cause (a person or animal) to do what you want", "control"],
+    ["a quality that causes people to like someone or something", "appeal"],
+    ["far apart in space or time", "distant"],
+    ["to cause to do", "stimulate"],
+    ["to make someone to do something that he/she doesn't want to do", "force"],
+    ["greater in size, extent, or importance", "major"],
+    ["not plain; decorative", "fancy"],
+    ["to cause", "raise"],
+    ["all the living people in the world", "humanity"],
+    ["everything including the unexamined planets in outer space", "universe"]
   ],
   "statement": [
-    ["He received a medal for being a brave warrior.", "warrior"],
-    ["The men who work on the oil rigs are a tough bunch.", "tough"],
-    ["He is so courageous because he climbed to the top of this huge rock.", "courageous"],
-    ["Do you realize you're an hour late?", "realize"],
-    ["Only a coward would run from danger.", "coward"],
-    ["They ran away to escape the man chasing them.", "escape"],
-    ["The policemen pursued the bank robbers.", "pursued"],
-    ["Her nose started to bleed when the door hit it.", "bleed"],
-    ["As I approached the house, I noticed a light on upstairs.", "approached"],
-    ["Sweat is dripping from his forehead.", "dripping"]
+    ["The parents could not control their child.", "control"],
+    ["I can't understand the appeal of skydiving.", "appeal"],
+    ["The sun is distant from the earth.", "distant"],
+    ["Exercise stimulates the flow of blood.", "stimulates"],
+    ["The policemen forced the criminals to give up their weapons.", "forced"],
+    ["Smoking is one of the major causes of cancer.", "major"],
+    ["Both of them like fancy clothes.", "fancy"],
+    ["This attack raises fears of increased violence against foreigners.", "raises"],
+    ["Humanity has made great progress in space exploration and medicine.", "Humanity"],
+    ["At that time people believed the earth was the center of the universe.", "universe"]
   ]
 }

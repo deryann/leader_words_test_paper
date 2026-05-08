@@ -30,7 +30,7 @@
 }
 3. 順序：依圖片自上而下、由左到右。
 4. 命名輸出檔：
-   cfg-2026-02/AL-p{base_jpg_filename}.json
+   cfg-202602/AL-p{base_jpg_filename}.json
    例: 圖片 01.jpg → AL-p01.json
 5. 風格與範例 (參考已成功案例):
 {

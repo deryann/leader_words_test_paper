@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["a particular way of living: the way a person lives or a group of people live", "lifestyle"],
-    ["the ability to survive for a long time", "sustainability"],
-    ["something that causes people to worry", "concern"],
-    ["the conditions and influences that affect the growth, health, progress, etc., of someone or something", "environment"],
-    ["located or living nearby", "locally"],
-    ["growing or producing food without using artificial chemicals", "organic"],
-    ["a light, strong substance that can be made into different shapes and that is used for making many common products", "plastic"],
-    ["to give an explanation of something", "describe"],
-    ["a person who buys things", "consumer"],
-    ["someone or something that belongs to or is a part of a group or an organization", "member"]
+    ["relating to the body of a person instead of the mind", "physical"],
+    ["a part of the face or body", "feature(s)"],
+    ["to continue to live", "survive"],
+    ["to grow or become bigger or more advanced", "develop"],
+    ["to get away from a dangerous place or situation", "escape"],
+    ["an animal that kills and eats other animals", "predator"],
+    ["to protect something or someone", "defend"],
+    ["without anyone or anything else", "alone"],
+    ["existing separately from other people or things", "individual"],
+    ["a large group", "pack"]
   ],
   "statement": [
-    ["Eating right and exercising are essential to having a healthy lifestyle.", "lifestyle"],
-    ["Sustainability is important for the future of the planet.", "Sustainability"],
-    ["Their friend's health is a constant concern.", "concern"],
-    ["We're trying to create a better learning environment.", "environment"],
-    ["Do you shop locally or go to the next town?", "locally"],
-    ["Organic farming is better for the environment.", "Organic"],
-    ["That toy is made of plastic.", "plastic"],
-    ["The police asked her to describe the man.", "describe"],
-    ["It will offer a wider choice of goods for the consumer.", "consumer"],
-    ["The club has 300 members.", "members"]
+    ["No physical contact with other players is allowed in the game.", "physical"],
+    ["He has handsome features.", "features"],
+    ["I don't see how any creature can survive under those conditions.", "survive"],
+    ["The course is designed to develop your writing skills.", "develop"],
+    ["They managed to escape from the burning building.", "escape"],
+    ["Tigers are a kind of predator.", "predator"],
+    ["We shall defend our city, whatever the cost may be.", "defend"],
+    ["The lion waited for the zebra to wander off alone.", "alone"],
+    ["Each individual receives two genes, one inherited from each parent.", "individual"],
+    ["A pack of hounds chased the fox.", "pack"]
   ]
 }

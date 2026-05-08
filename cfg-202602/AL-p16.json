@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["a female that does household chores as a job", "maid"],
-    ["not seen or known", "hidden"],
-    ["a place", "spot"],
-    ["a planned piece of work that has a specific purpose and that usually requires a lot of time", "project"],
-    ["to look after carefully", "nurse"],
-    ["hardly; only just", "barely"],
-    ["to come back", "return"],
-    ["a strong feeling of happiness: great pleasure or satisfaction", "delight"],
-    ["rough in manners or behavior; not gentle", "rude"],
-    ["to express displeasure or unhappiness", "complain"]
+    ["belonging somewhere by birth", "native"],
+    ["to cause harm; to act violently", "attack"],
+    ["the natural environment of an animal or plant", "habitat"],
+    ["coming from or belonging to a different place or country", "foreign"],
+    ["the activity of traveling to a place for pleasure", "tourism"],
+    ["to stop the quietness or peace of an animal or plant", "disturb"],
+    ["to make unclean with harmful chemicals or waste", "pollute"],
+    ["the state of being kept within limits", "restriction"],
+    ["used to describe a type of animal or plant that has become very rare and that could die out completely", "endangered"],
+    ["to get rid of", "remove"]
   ],
   "statement": [
-    ["At nine the maid brought them their breakfast.", "maid"],
-    ["There was a hidden tunnel in the cave.", "hidden"],
-    ["This is the spot where the two trucks crashed.", "spot"],
-    ["Fixing the old house was going to be a big project.", "project"],
-    ["He nursed the house plants through a long winter.", "nursed"],
-    ["Mary had barely enough money to live on.", "barely"],
-    ["She did not return home till eleven o'clock.", "return"],
-    ["We watched the fireworks with delight.", "delight"],
-    ["It's rude to take somebody's things without asking.", "rude"],
-    ["Neighbors complained to the police about the dogs barking.", "complained"]
+    ["The giant panda is native to China.", "native"],
+    ["Snakes will only attack if you bother them.", "attack"],
+    ["The grassland is an important habitat for many wild flowers.", "habitat"],
+    ["We don't get many foreign visitors.", "foreign"],
+    ["The city developed the riverfront to promote tourism.", "tourism"],
+    ["I'm sorry to disturb you so early.", "disturb"],
+    ["Garbage pollutes our rivers and lakes.", "pollutes"],
+    ["The swimming club is open to families in the neighborhood without restriction.", "restriction"],
+    ["The bald eagle is no longer considered an endangered species.", "endangered"],
+    ["The cleaner will help you remove wine stains on your shirt.", "remove"]
   ]
 }

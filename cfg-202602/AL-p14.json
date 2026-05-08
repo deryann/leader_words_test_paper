@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["having nothing else coming in between", "direct"],
-    ["a state of health, happiness, and wealth", "well-being"],
-    ["an important task or duty given to a person or group", "mission"],
-    ["to give something that someone needs or deserves", "offer"],
-    ["to make someone more likely to do something", "encourage"],
-    ["the period of time that will come after the present time", "future"],
-    ["the act of showing that you believe that someone or something is good or acceptable", "support"],
-    ["the space between two objects or places", "distance"],
-    ["a chemical that kills bugs", "pesticide"],
-    ["happening in a short amount of time: happening quickly", "rapid"]
+    ["to separate; to move in different directions", "scatter"],
+    ["a line that someone or something moves on", "direction"],
+    ["to make (someone or something) uncertain or unable to understand something", "confuse(s)"],
+    ["the way in which an animal's color or shape matches its surroundings", "camouflage"],
+    ["to look like what is around you", "blend in"],
+    ["to fit into a certain environment", "adapt"],
+    ["to include or contain as a necessary part", "involve"],
+    ["the act of defending someone or something from attack", "defense"],
+    ["to develop gradually", "evolve"],
+    ["to cover a place or shower someone with drops of a liquid", "spray"]
   ],
   "statement": [
-    ["He took a direct flight to New York.", "direct"],
-    ["Work also provides psychological well-being.", "well-being"],
-    ["She made it her mission to get her work finished on time.", "mission"],
-    ["They offered him a very good job, but he turned it down.", "offered"],
-    ["We want to encourage students to read more.", "encourage"],
-    ["We're making plans for the future.", "future"],
-    ["The team gets a lot of support from its fans.", "support"],
-    ["It is a long distance from New York to Hong Kong.", "distance"],
-    ["People should store pesticides away from food and drinks.", "pesticides"],
-    ["There's been rapid growth in the number of new businesses in the town.", "rapid"]
+    ["The crowd scattered when the police charged.", "scattered"],
+    ["He drove in the direction of the farm.", "direction"],
+    ["The general was trying to confuse the enemy.", "confuse"],
+    ["Rabbits use their white fur as camouflage in the snow.", "camouflage"],
+    ["The fish settles on the sandy ocean bottom where it blends in perfectly.", "blends in"],
+    ["He has not yet adapted to the climate.", "adapted"],
+    ["His work involves occasional travel.", "involves"],
+    ["Animals have different defense techniques.", "defense"],
+    ["The school has evolved its own style of teaching.", "evolved"],
+    ["He sprayed water on the flowers this morning.", "sprayed"]
   ]
 }

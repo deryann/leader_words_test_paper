@@ -1,26 +1,26 @@
 {
   "explain": [
-    ["using more of something than is needed", "wasteful"],
-    ["a way of doing something", "practice"],
-    ["the need or desire to buy particular goods or services", "demand"],
-    ["to catch too many fish so that there are not enough remaining", "overfish"],
-    ["the death of all living members of a certain species", "extinction"],
-    ["people in the government", "official"],
-    ["to make sure that a law or a rule is obeyed by people", "enforce"],
-    ["to observe or record an activity or performance", "monitor"],
-    ["to officially say that someone is not allowed to do something", "ban"],
-    ["food that is part of a cooking process", "ingredient"]
+    ["someone who does something without being forced or paid to do it", "volunteer"],
+    ["a person who handles work for a boss or an organization", "secretary"],
+    ["very important", "significant"],
+    ["to give up", "abandon"],
+    ["to say or show that you are not willing to do something that someone wants you to do", "refuse(d)"],
+    ["to put into jail for doing something illegal", "arrest"],
+    ["fearless, confident and courageous", "bold"],
+    ["to create; to produce", "spark"],
+    ["not having the same opportunities and advantages", "unfair"],
+    ["to look upon or think of", "regard"]
   ],
   "statement": [
-    ["Running the tap is wasteful.", "wasteful"],
-    ["It's not considered good practice to reveal clients' names.", "practice"],
-    ["Production is still increasing faster than demand.", "demand"],
-    ["The lake has been overfished.", "overfished"],
-    ["Apes are in danger of extinction.", "extinction"],
-    ["The mayor is an elected official.", "official"],
-    ["Governments make laws and the police enforce them.", "enforce"],
-    ["It is said that the police monitored his phone calls during that period.", "monitored"],
-    ["We have put a ban on smoking.", "ban"],
-    ["What are the ingredients of the cake?", "ingredients"]
+    ["The school was built by volunteers.", "volunteers"],
+    ["Mary is private secretary to the company chairman.", "secretary"],
+    ["The Civil Rights Movement is a significant event in history.", "significant"],
+    ["Because of the fog they abandoned their idea of driving.", "abandoned"],
+    ["They asked her to help but she refused.", "refused"],
+    ["I got arrested for careless driving.", "arrested"],
+    ["Mr. Jordan made a bold speech.", "bold"],
+    ["They were scheming to spark a revolt.", "spark"],
+    ["We think the punishment is unfair.", "unfair"],
+    ["He is regarded as the best doctor in town.", "regarded"]
   ]
 }
